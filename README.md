@@ -14,7 +14,7 @@
 
 
 
-## Favorite Languages, and Tools 🛠
+## Favorite Languages and Tools
 
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
