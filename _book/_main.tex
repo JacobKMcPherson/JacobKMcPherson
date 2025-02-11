@@ -73,14 +73,14 @@
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
 \hypersetup{
-  pdftitle={Jacob McPherson, PharmD},
+  pdftitle={Jacob McPherson, PharmD, PhD},
   pdfauthor={Jacob McPherson},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 
-\title{Jacob McPherson, PharmD}
+\title{Jacob McPherson, PharmD, PhD}
 \author{Jacob McPherson}
-\date{2025-01-07}
+\date{2025-02-11}
 
 \begin{document}
 \maketitle
@@ -103,6 +103,8 @@ The \texttt{index.Rmd} file is required, and is also your first book chapter. It
 
 \section{Render book}\label{render-book}
 
+UPDATE: to render this bookdown gitbook, it is easiest to open the repo in Posit Cloud or other RStudio: maximum efficiency with git pull/push and build book button
+
 You can render the HTML version of this example book without changing anything:
 
 \begin{enumerate}
@@ -112,8 +114,6 @@ You can render the HTML version of this example book without changing anything:
 \item
   Click on \textbf{Build Book}, then select your output format, or select ``All formats'' if you'd like to use multiple formats from the same book source files.
 \end{enumerate}
-
-Or build the book from the R console:
 
 To render this example to PDF as a \texttt{bookdown::pdf\_book}, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): \url{https://yihui.org/tinytex/}.
 

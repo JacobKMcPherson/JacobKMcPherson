@@ -1,5 +1,5 @@
 ---
-title: "Jacob McPherson, PharmD"
+title: "Jacob McPherson, PharmD, PhD"
 author: "Jacob McPherson"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -32,8 +32,5 @@ You can render the HTML version of this example book without changing anything:
 1.  Find the **Build** pane in the RStudio IDE, and
 
 2.  Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
-
-Or build the book from the R console:
-
 
 To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
