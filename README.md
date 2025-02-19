@@ -18,19 +18,22 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://www.ubuntu.com)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![VSCode](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![VSCode](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+
 [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/)
+[![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)](https://posit.co/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
 
+[![shiny](https://img.shields.io/cran/v/shiny?label=shiny)](https://www.shinyapps.io/)
+[![quarto](https://img.shields.io/cran/v/quarto?label=quarto)](https://quarto.org/)
+[![rmarkdown](https://img.shields.io/cran/v/rmarkdown?label=rmarkdown)](https://rmarkdown.rstudio.com/)
+![tidyverse](https://img.shields.io/cran/v/tidyverse?label=tidyverse)
 
-[![Shiny](https://img.shields.io/badge/Shiny-R%20Shiny-blue?logo=r&logoColor=white)](https://www.shinyapps.io/)
-[![Quarto](https://img.shields.io/badge/Quarto-Blue?logo=quarto&logoColor=white)](https://quarto.org/)
-[![RMarkdown](https://img.shields.io/badge/RMarkdown-Blue?logo=r&logoColor=white)](https://rmarkdown.rstudio.com/)
-[![Tidyverse](https://img.shields.io/badge/Tidyverse-Blue?logo=r&logoColor=white)](https://www.tidyverse.org/)
 
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
