@@ -32,7 +32,7 @@
 [![shiny](https://img.shields.io/cran/v/shiny?label=shiny)](https://www.shinyapps.io/)
 [![quarto](https://img.shields.io/cran/v/quarto?label=quarto)](https://quarto.org/)
 [![rmarkdown](https://img.shields.io/cran/v/rmarkdown?label=rmarkdown)](https://rmarkdown.rstudio.com/)
-![tidyverse](https://img.shields.io/cran/v/tidyverse?label=tidyverse)
+[![tidyverse](https://img.shields.io/cran/v/tidyverse?label=tidyverse)](https://www.tidyverse.org/)
 
 
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
