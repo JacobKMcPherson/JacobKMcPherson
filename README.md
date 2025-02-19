@@ -25,6 +25,11 @@
 [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
+[![Shiny](https://img.shields.io/badge/Shiny-R%20Shiny-blue?logo=r&logoColor=white)](https://www.shinyapps.io/)
+[![Quarto](https://img.shields.io/badge/Quarto-Blue?logo=quarto&logoColor=white)](https://quarto.org/)
+[![RMarkdown](https://img.shields.io/badge/RMarkdown-Blue?logo=r&logoColor=white)](https://rmarkdown.rstudio.com/)
+[![Tidyverse](https://img.shields.io/badge/Tidyverse-Blue?logo=r&logoColor=white)](https://www.tidyverse.org/)
+
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
