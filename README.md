@@ -24,10 +24,10 @@
 [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
-[![VSCode](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/)
+[![VSCode](https://img.shields.io/badge/vs%20code-007ACC?logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)](https://posit.co/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/)
 
 [![shiny](https://img.shields.io/cran/v/shiny?label=shiny)](https://www.shinyapps.io/)
 [![quarto](https://img.shields.io/cran/v/quarto?label=quarto)](https://quarto.org/)
