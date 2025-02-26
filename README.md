@@ -26,8 +26,8 @@
 
 [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/)
 [![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)](https://posit.co/)
-[![VSCode](https://img.shields.io/badge/vs%20code-007ACC?logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![VSCode](https://img.shields.io/badge/vs%20code-007ACC?logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 [![shiny](https://img.shields.io/cran/v/shiny?label=shiny)](https://www.shinyapps.io/)
 [![quarto](https://img.shields.io/cran/v/quarto?label=quarto)](https://quarto.org/)
