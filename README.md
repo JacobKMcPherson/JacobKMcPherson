@@ -2,7 +2,7 @@
 
 * [*My AuthorLink*](https://author.link/JacobKMcPherson) ![Website Status](https://img.shields.io/website-up-down-green-red/http/author.link/JacobKMcPherson) 
 * [*My GitBook*](https://jacobkmcpherson.netlify.app/) [![*Netlify Success*](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jacobkmcpherson/deploys)
-* [*The-McPherson-Lab*](https://The-Mcpherson-Lab.github.io/) [![*Deployment*](https://github.com/The-McPherson-Lab/The-McPherson-Lab/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/The-McPherson-Lab/The-McPherson-Lab/actions/workflows/pages/pages-build-deployment)
+* [*the McPherson Lab*](https://mcphersonlab.github.io/) [![*Deployment*](https://github.com/mcphersonlab/mcphersonlab/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/mcphersonlab/mcphersonlab/actions/workflows/pages/pages-build-deployment)
 
 
 ## Scholarly Works and Socials 
