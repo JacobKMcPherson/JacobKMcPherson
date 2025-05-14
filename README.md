@@ -16,7 +16,6 @@ Submissions:
 
 Coalitions: 
 [![Global BioData Coalition]()](https://globalbiodata.org/what-we-do/global-core-biodata-resources/list-of-current-global-core-biodata-resources/)
-[![UK BioBank]()](https://www.ukbiobank.ac.uk/)
 [![HHS.Gov Open-Data]()](https://cdo.hhs.gov/s/open-data)
 
 Bacteria: 
@@ -66,7 +65,8 @@ Genomes & Models:
 [![GenCodes]()](https://www.gencodegenes.org/)
 [![RatGenomeData]()](https://rgd.mcw.edu/)
 [![Ensembl]()](https://useast.ensembl.org/index.html)
-[![AllOfUs (NIH)(IMAGE)]()](https://allofus.nih.gov/)
+[![AllOfUs (NIH)]()](https://allofus.nih.gov/)
+[![UK BioBank]()](https://www.ukbiobank.ac.uk/)
 [![Clinical Genome (NIH)]()](https://www.clinicalgenome.org/)
 [![Genome Browser (UCSC)]()](https://genome.ucsc.edu/)
 
