@@ -16,7 +16,6 @@ Submissions:
 
 Coalitions: 
 [![Global BioData Coalition]()](https://globalbiodata.org/what-we-do/global-core-biodata-resources/list-of-current-global-core-biodata-resources/)
-[![HHS.Gov Open-Data]()](https://cdo.hhs.gov/s/open-data)
 
 Bacteria: 
 [![MGnify]()](https://www.ebi.ac.uk/metagenomics)
@@ -65,8 +64,6 @@ Genomes & Models:
 [![GenCodes]()](https://www.gencodegenes.org/)
 [![RatGenomeData]()](https://rgd.mcw.edu/)
 [![Ensembl]()](https://useast.ensembl.org/index.html)
-[![AllOfUs]()](https://allofus.nih.gov/)
-[![UK BioBank]()](https://www.ukbiobank.ac.uk/)
 [![Clinical Genome]()](https://www.clinicalgenome.org/)
 [![UCSC Genome Browser]()](https://genome.ucsc.edu/)
 
@@ -76,13 +73,20 @@ Other:
 [![MDDDB]()](https://mddbr.eu/)
 [![BioModels]()](https://www.ebi.ac.uk/biomodels/)
 [![LipidMaps]()](https://www.lipidmaps.org/)
-[![HealthCheckTools (MedLine Plus, NLM)]()](https://medlineplus.gov/healthchecktools.html)
-[![MyHealthFinder (OASH, HHS)]()](https://odphp.health.gov/myhealthfinder)
-[![USPSTF]()](https://www.uspreventiveservicestaskforce.org/webview/#!/)
-[![ResearchMatch]()](https://www.researchmatch.org/)
+
+Education: 
 [![AI Patient]()](https://geiselmed.dartmouth.edu/thesen/patient-actor-app/)
 
+Health: 
+[![USPSTF]()](https://www.uspreventiveservicestaskforce.org/webview/#!/)
+[![HealthCheckTools (MedLine Plus, NLM)]()](https://medlineplus.gov/healthchecktools.html)
+[![MyHealthFinder (OASH, HHS)]()](https://odphp.health.gov/myhealthfinder)
 
+Clinical Research: 
+[![ResearchMatch]()](https://www.researchmatch.org/)
+[![HHS.Gov Open-Data]()](https://cdo.hhs.gov/s/open-data)
+[![AllOfUs]()](https://allofus.nih.gov/)
+[![UK BioBank]()](https://www.ukbiobank.ac.uk/)
 
 ## Scholarly Works and Socials 
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
