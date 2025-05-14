@@ -80,6 +80,12 @@ Coalitions:
 [![NCBI]()](https://ncbi.nlm.nih.gov/)
 [![SIB]()](https://www.expasy.org/)
 
+Life Science Vendors: 
+[![Schrodinger]()](https://www.schrodinger.com/platform/products/virtual-cluster/)
+[![Qiagen]()](https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/enterprise-ngs-solutions/qiagen-clc-genomics-cloud/)
+[![Eppendorf]()](https://www.eppendorf.com/us-en/)
+[![Thermo]()](https://www.thermofisher.com/us/en/home.html)
+
 Infectious Diseases: 
 [![BacDive]()](https://bacdive.dsmz.de/)
 [![BEI](ATCC)](https://www.beiresources.org/)
@@ -143,11 +149,6 @@ Other:
 [![MDDDB]()](https://mddbr.eu/)
 [![BioModels]()](https://www.ebi.ac.uk/biomodels/)
 [![LipidMaps]()](https://www.lipidmaps.org/)
-
-Vendors: 
-[![Qiagen]()](https://www.qiagen.com/us)
-[![Eppendorf]()](https://www.eppendorf.com/us-en/)
-[![Thermo]()](https://www.thermofisher.com/us/en/home.html)
 
 Health: 
 [![USPSTF]()](https://www.uspreventiveservicestaskforce.org/webview/#!/)
