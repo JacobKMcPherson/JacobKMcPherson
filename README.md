@@ -51,7 +51,7 @@ Expression:
 
 Small Molecules & Drugs: 
 [![ChEBI]()](https://www.ebi.ac.uk/chebi/)
-[![ChEMBL]()](https://www.ebi.ac.uk/chembl/)
+[![ChEMBL](https://www.ebi.ac.uk/web_guidelines/images/logos/chembl-logo.svg)](https://www.ebi.ac.uk/chembl/)
 [![OrphData]()](https://www.orphadata.com/)
 [![IUPHAR]()](https://www.guidetopharmacology.org/)
 [![PharmGKB]()](https://www.pharmgkb.org/)
@@ -71,12 +71,14 @@ Genomes & Models:
 [![Genome Browser (UCSC)]()](https://genome.ucsc.edu/)
 
 Other: 
+[![MDDDB]()](https://mddbr.eu/)
 [![BioModels]()](https://www.ebi.ac.uk/biomodels/)
 [![LipidMaps]()](https://www.lipidmaps.org/)
 [![HealthCheckTools (MedLine Plus, NLM)]()](https://medlineplus.gov/healthchecktools.html)
 [![MyHealthFinder (OASH, HHS)]()](https://odphp.health.gov/myhealthfinder)
 [![USPSTF]()](https://www.uspreventiveservicestaskforce.org/webview/#!/)
 [![ResearchMatch (Vandy)]()](https://www.researchmatch.org/)
+
 
 ## Scholarly Works and Socials 
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
