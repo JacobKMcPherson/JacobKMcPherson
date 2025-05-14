@@ -75,6 +75,11 @@ Coalitions:
 [![NCBI]()](https://ncbi.nlm.nih.gov/)
 [![SIB]()](https://www.expasy.org/)
 
+High-Performance Computing: 
+[![NIH HPC]()](https://hpc.nih.gov/)
+[![NSF Access]()](https://allocations.access-ci.org/get-your-first-project)
+[![TACC]()](https://tacc.utexas.edu/)
+
 Infectious Diseases: 
 [![BacDive]()](https://bacdive.dsmz.de/)
 [![BEI](ATCC)](https://www.beiresources.org/)
