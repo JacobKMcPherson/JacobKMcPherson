@@ -5,7 +5,7 @@
 * [*McPherson Lab*](https://github.com/mcphersonlab) ![GitHub Pages](https://github.com/mcphersonlab/mcphersonlab.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
 ## Data 
-Submissions:  
+Submissions:
 [![EMBL-EBI](IMAGE)](https://www.ebi.ac.uk/submission/)
 [![NCBI](IMAGE)](https://submit.ncbi.nlm.nih.gov/subs/)
 [![BioProject](IMAGE)](https://submit.ncbi.nlm.nih.gov/about/bioproject-biosample/)
