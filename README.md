@@ -28,6 +28,9 @@ Coalitions:
 [![Global BioData]()](https://globalbiodata.org/what-we-do/global-core-biodata-resources/list-of-current-global-core-biodata-resources/)
 [![Elixir]()](https://elixir-europe.org/)
 [![OmicsDI]()](https://www.omicsdi.org/database)
+[![DDBJ]()](https://www.ddbj.nig.ac.jp/index-e.html)
+[![EMBL-EBI]()](https://www.ebi.ac.uk/)
+[![NCBI]()](https://ncbi.nlm.nih.gov/)
 
 Bacteria: 
 [![MGnify]()](https://www.ebi.ac.uk/metagenomics)
@@ -88,6 +91,7 @@ Clinical Research:
 [![HHS.Gov Open-Data]()](https://cdo.hhs.gov/s/open-data)
 [![AllOfUs]()](https://allofus.nih.gov/)
 [![UK BioBank]()](https://www.ukbiobank.ac.uk/)
+[]![BioBank Japan]()(https://biobankjp.org/en/)
 
 Education: 
 [![AI Patient]()](https://geiselmed.dartmouth.edu/thesen/patient-actor-app/)
