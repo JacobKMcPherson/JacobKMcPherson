@@ -28,8 +28,8 @@ Bacteria:
 
 Proteins and Enzymes: 
 [![UniProt]()](https://www.uniprot.org/)
-[![WW-PDB (EMBL)]()](https://www.wwpdb.org/) 
-[![RCSB-PDB (NIH)]()]([https://www.wwpdb.org/](https://www.rcsb.org/)) 
+[![WW-PDB]()](https://www.wwpdb.org/) 
+[![RCSB-PDB]()]([https://www.wwpdb.org/](https://www.rcsb.org/)) 
 [![InterPro]()](https://www.ebi.ac.uk/interpro/)
 [![EMDB]()](https://www.ebi.ac.uk/emdb/) 
 [![IMEx]()](https://www.imexconsortium.org/)
@@ -65,10 +65,10 @@ Genomes & Models:
 [![GenCodes]()](https://www.gencodegenes.org/)
 [![RatGenomeData]()](https://rgd.mcw.edu/)
 [![Ensembl]()](https://useast.ensembl.org/index.html)
-[![AllOfUs (NIH)]()](https://allofus.nih.gov/)
+[![AllOfUs]()](https://allofus.nih.gov/)
 [![UK BioBank]()](https://www.ukbiobank.ac.uk/)
-[![Clinical Genome (NIH)]()](https://www.clinicalgenome.org/)
-[![Genome Browser (UCSC)]()](https://genome.ucsc.edu/)
+[![Clinical Genome]()](https://www.clinicalgenome.org/)
+[![UCSC Genome Browser]()](https://genome.ucsc.edu/)
 
 Other: 
 [![GO]()](https://geneontology.org/)
@@ -79,7 +79,8 @@ Other:
 [![HealthCheckTools (MedLine Plus, NLM)]()](https://medlineplus.gov/healthchecktools.html)
 [![MyHealthFinder (OASH, HHS)]()](https://odphp.health.gov/myhealthfinder)
 [![USPSTF]()](https://www.uspreventiveservicestaskforce.org/webview/#!/)
-[![ResearchMatch (Vandy)]()](https://www.researchmatch.org/)
+[![ResearchMatch]()](https://www.researchmatch.org/)
+[![AI Patient]()](https://geiselmed.dartmouth.edu/thesen/patient-actor-app/)
 
 
 
