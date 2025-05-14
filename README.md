@@ -11,9 +11,6 @@ Submissions:
 [![BioProject]()](https://submit.ncbi.nlm.nih.gov/about/bioproject-biosample/)
 [![SRA]()](https://submit.ncbi.nlm.nih.gov/subs/sra/)
 [![Genome]()](https://submit.ncbi.nlm.nih.gov/subs/genome/)
-[![EMPIAR]()](https://www.ebi.ac.uk/empiar/)
-[![EMDB]()](https://www.ebi.ac.uk/emdb/)
-[![Cryo-ET]()](https://cryoetdataportal.czscience.com/)
 [![PubChem]()](https://pubchem.ncbi.nlm.nih.gov/submit/)
 [![RedCap]()](https://project-redcap.org/)
 
@@ -30,10 +27,12 @@ Bacteria:
 
 Proteins and Enzymes: 
 [![UniProt]()](https://www.uniprot.org/)
+[![EMPIAR]()](https://www.ebi.ac.uk/empiar/)
+[![EMDB]()](https://www.ebi.ac.uk/emdb/)
+[![Cryo-ET]()](https://cryoetdataportal.czscience.com/)
 [![WW-PDB]()](https://www.wwpdb.org/) 
 [![RCSB-PDB]()]([https://www.wwpdb.org/](https://www.rcsb.org/)) 
 [![InterPro]()](https://www.ebi.ac.uk/interpro/)
-[![EMDB]()](https://www.ebi.ac.uk/emdb/) 
 [![IMEx]()](https://www.imexconsortium.org/)
 [![UCSF ChimeraX]()](https://www.cgl.ucsf.edu/chimerax/)
 
