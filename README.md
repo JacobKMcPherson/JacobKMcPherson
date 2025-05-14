@@ -65,7 +65,6 @@ Genomes & Models:
 [![RatGenomeData]()](https://rgd.mcw.edu/)
 [![Ensembl]()](https://useast.ensembl.org/index.html)
 [![ClinGen]()](https://www.clinicalgenome.org/)
-[![UCSC Genome Browser]()](https://genome.ucsc.edu/)
 
 Other: 
 [![GO]()](https://geneontology.org/)
