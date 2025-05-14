@@ -12,6 +12,7 @@ Submissions:
 [![SRA]()](https://submit.ncbi.nlm.nih.gov/subs/sra/)
 [![Genome]()](https://submit.ncbi.nlm.nih.gov/subs/genome/)
 [![EMPIAR]()](https://www.ebi.ac.uk/empiar/)
+[![EMDB]()](https://www.ebi.ac.uk/emdb/)
 [![Cryo-ET]()](https://cryoetdataportal.czscience.com/)
 [![PubChem]()](https://pubchem.ncbi.nlm.nih.gov/submit/)
 [![RedCap]()](https://project-redcap.org/)
