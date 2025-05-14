@@ -14,7 +14,7 @@ Submissions:
 [![PubChem]()](https://pubchem.ncbi.nlm.nih.gov/submit/)
 [![RedCap]()](https://project-redcap.org/)
 
-Small Molecules & Drugs: 
+Small Molecules Drugs: 
 [![ChEBI]()](https://www.ebi.ac.uk/chebi/)
 [![ChEMBL]()](https://www.ebi.ac.uk/chembl/)
 [![BindingDB]()](https://www.bindingdb.org/rwd/bind/index.jsp)
