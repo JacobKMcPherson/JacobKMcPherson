@@ -106,15 +106,15 @@ Proteins and Enzymes:
 [![WW-PDB]()](https://www.wwpdb.org/) 
 [![RCSB-PDB]()]([https://www.wwpdb.org/](https://www.rcsb.org/)) 
 [![InterPro]()](https://www.ebi.ac.uk/interpro/)
-[![IMEx]()](https://www.imexconsortium.org/)
 [![UCSF ChimeraX]()](https://www.cgl.ucsf.edu/chimerax/)
+[![CATH]()](http://www.cathdb.info/)
 
 Interactions & Reactions: 
 [![Reactome]()](https://reactome.org/)
 [![RHEA]()](https://www.rhea-db.org/)
 [![STRING]()](https://string-db.org/)
 [![BRENDA]()](https://www.brenda-enzymes.org/)
-[![CATH]()](http://www.cathdb.info/)
+[![IMEx]()](https://www.imexconsortium.org/)
 
 Expression: 
 [![BioImage]()](https://www.ebi.ac.uk/bioimage-archive/submit/)
