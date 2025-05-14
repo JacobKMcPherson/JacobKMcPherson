@@ -37,6 +37,7 @@ Bacteria:
 [![BacDive]()](https://bacdive.dsmz.de/)
 [![BV-BRC]()](https://www.bv-brc.org/)
 [![MGnify]()](https://www.ebi.ac.uk/metagenomics)
+[![CARD]()](https://card.mcmaster.ca/)
 [![Silva]()](https://www.arb-silva.de/)
 [![EcoCyc]()](https://ecocyc.org/)
 [![SubtiWiki]()](https://www.subtiwiki.uni-goettingen.de/v5/welcome)
