@@ -25,7 +25,9 @@ Small Molecules Drugs:
 [![PharmGKB]()](https://www.pharmgkb.org/)
 
 Coalitions: 
-[![Global BioData Coalition]()](https://globalbiodata.org/what-we-do/global-core-biodata-resources/list-of-current-global-core-biodata-resources/)
+[![Global BioData]()](https://globalbiodata.org/what-we-do/global-core-biodata-resources/list-of-current-global-core-biodata-resources/)
+[![Elixir]()](https://elixir-europe.org/)
+[![OmicsDI]()](https://www.omicsdi.org/database)
 
 Bacteria: 
 [![MGnify]()](https://www.ebi.ac.uk/metagenomics)
