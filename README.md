@@ -88,15 +88,15 @@ Other:
 
 Health: 
 [![USPSTF]()](https://www.uspreventiveservicestaskforce.org/webview/#!/)
-[![HealthCheckTools (MedLine Plus, NLM)]()](https://medlineplus.gov/healthchecktools.html)
-[![MyHealthFinder (OASH, HHS)]()](https://odphp.health.gov/myhealthfinder)
+[![HealthCheckTools]()](https://medlineplus.gov/healthchecktools.html)
+[![MyHealthFinder]()](https://odphp.health.gov/myhealthfinder)
 
 Clinical Research: 
 [![ResearchMatch]()](https://www.researchmatch.org/)
 [![HHS.Gov Open-Data]()](https://cdo.hhs.gov/s/open-data)
 [![AllOfUs]()](https://allofus.nih.gov/)
 [![UK BioBank]()](https://www.ukbiobank.ac.uk/)
-[]![BioBank Japan]()(https://biobankjp.org/en/)
+[![BioBank Japan]()](https://biobankjp.org/en/)
 
 Education: 
 [![AI Patient]()](https://geiselmed.dartmouth.edu/thesen/patient-actor-app/)
