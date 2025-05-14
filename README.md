@@ -6,68 +6,70 @@
 
 ## Data 
 Submissions:
-[![EMBL-EBI](IMAGE)](https://www.ebi.ac.uk/submission/)
-[![NCBI](IMAGE)](https://submit.ncbi.nlm.nih.gov/subs/)
-[![BioProject](IMAGE)](https://submit.ncbi.nlm.nih.gov/about/bioproject-biosample/)
-[![SRA](IMAGE)](https://submit.ncbi.nlm.nih.gov/subs/sra/)
-[![Genome](IMAGE)](https://submit.ncbi.nlm.nih.gov/subs/genome/)
-[![PubChem](IMAGE)](https://pubchem.ncbi.nlm.nih.gov/submit/)
+[![EMBL-EBI]()](https://www.ebi.ac.uk/submission/)
+[![NCBI]()](https://submit.ncbi.nlm.nih.gov/subs/)
+[![BioProject]()](https://submit.ncbi.nlm.nih.gov/about/bioproject-biosample/)
+[![SRA]()](https://submit.ncbi.nlm.nih.gov/subs/sra/)
+[![Genome]()](https://submit.ncbi.nlm.nih.gov/subs/genome/)
+[![PubChem]()](https://pubchem.ncbi.nlm.nih.gov/submit/)
 
 Data Coalition: 
-[![Global BioData Coalition](IMAGE)](https://globalbiodata.org/what-we-do/global-core-biodata-resources/list-of-current-global-core-biodata-resources/)
+[![Global BioData Coalition]()](https://globalbiodata.org/what-we-do/global-core-biodata-resources/list-of-current-global-core-biodata-resources/)
 
 Bacteria: 
-[![MGnify](IMAGE)](https://www.ebi.ac.uk/metagenomics)
-[![Silva](IMAGE)](https://www.arb-silva.de/)
-[![BacDive (DSMZ)](IMAGE)](https://bacdive.dsmz.de/)
-[![EcoCyc](IMAGE)](https://ecocyc.org/)
-[![SubtiWiki](IMAGE)](https://www.subtiwiki.uni-goettingen.de/v5/welcome)
-[![LPSN (DSMZ)](IMAGE)](https://lpsn.dsmz.de/)
+[![MGnify]()](https://www.ebi.ac.uk/metagenomics)
+[![Silva]()](https://www.arb-silva.de/)
+[![BacDive (DSMZ)]()](https://bacdive.dsmz.de/)
+[![EcoCyc]()](https://ecocyc.org/)
+[![SubtiWiki]()](https://www.subtiwiki.uni-goettingen.de/v5/welcome)
+[![LPSN (DSMZ)]()](https://lpsn.dsmz.de/)
 
 Proteins and Enzymes: 
-[![UniProt](IMAGE)](https://www.uniprot.org/)
-[![WW-PDB (EMBL)](IMAGE)](https://www.wwpdb.org/) 
-[![RCSB-PDB (NIH)](IMAGE)]([https://www.wwpdb.org/](https://www.rcsb.org/)) 
-[![InterPro](IMAGE)](https://www.ebi.ac.uk/interpro/)
-[![EMDB](IMAGE)](https://www.ebi.ac.uk/emdb/) 
-[![IMEx](IMAGE)](https://www.imexconsortium.org/)
-
-Expression: 
-[![BioImage](IMAGE)](https://www.ebi.ac.uk/bioimage-archive/submit/)
-[![Expression (JAX)](IMAGE)](https://www.informatics.jax.org/expression.shtml/)
-[![ProteomeXchange](IMAGE)](https://www.proteomexchange.org/)
-[![Human Protein Atlas](IMAGE)](https://www.proteinatlas.org/)
+[![UniProt]()](https://www.uniprot.org/)
+[![WW-PDB (EMBL)]()](https://www.wwpdb.org/) 
+[![RCSB-PDB (NIH)]()]([https://www.wwpdb.org/](https://www.rcsb.org/)) 
+[![InterPro]()](https://www.ebi.ac.uk/interpro/)
+[![EMDB]()](https://www.ebi.ac.uk/emdb/) 
+[![IMEx]()](https://www.imexconsortium.org/)
 
 Interactions & Reactions: 
-[![Reactome](IMAGE)](https://reactome.org/)
-[![RHEA](IMAGE)](https://www.rhea-db.org/)
-[![STRING](IMAGE)](https://string-db.org/)
-[![BRENDA](IMAGE)](https://www.brenda-enzymes.org/)
-[![CATH](IMAGE)](http://www.cathdb.info/)
+[![Reactome]()](https://reactome.org/)
+[![RHEA]()](https://www.rhea-db.org/)
+[![STRING]()](https://string-db.org/)
+[![BRENDA]()](https://www.brenda-enzymes.org/)
+[![CATH]()](http://www.cathdb.info/)
+
+Expression: 
+[![BioImage]()](https://www.ebi.ac.uk/bioimage-archive/submit/)
+[![Expression (JAX)]()](https://www.informatics.jax.org/expression.shtml/)
+[![ProteomeXchange]()](https://www.proteomexchange.org/)
+[![Human Protein Atlas]()](https://www.proteinatlas.org/)
 
 Small Molecules & Drugs: 
-[![ChEBI](IMAGE)](https://www.ebi.ac.uk/chebi/)
-[![ChEMBL](IMAGE)](https://www.ebi.ac.uk/chembl/)
-[![OrphData](IMAGE)](https://www.orphadata.com/)
-[![IUPHAR](IMAGE)](https://www.guidetopharmacology.org/)
-[![PharmGKB](IMAGE)](https://www.pharmgkb.org/)
-[![DrugBank (Ca)](IMAGE)](https://go.drugbank.com/)
-[![SwissDrug](SIB)](https://www.molecular-modelling.ch/swiss-drug-design.html)
+[![ChEBI]()](https://www.ebi.ac.uk/chebi/)
+[![ChEMBL]()](https://www.ebi.ac.uk/chembl/)
+[![OrphData]()](https://www.orphadata.com/)
+[![IUPHAR]()](https://www.guidetopharmacology.org/)
+[![PharmGKB]()](https://www.pharmgkb.org/)
+[![DrugBank (Ca)]()](https://go.drugbank.com/)
+[![SwissDrug (SIB)]()](https://www.molecular-modelling.ch/swiss-drug-design.html)
 
 Genomes & Models: 
-[![YeastGenome](IMAGE)](https://yeastgenome.org/)
-[![WormBase](IMAGE)](https://wormbase.org/)
-[![FlyBase](IMAGE)](https://flybase.org/)
-[![ZFin](IMAGE)](https://zfin.org/)
-[![GenCodes](IMAGE)](https://www.gencodegenes.org/)
-[![RatGenomeData](IMAGE)](https://rgd.mcw.edu/)
-[![Ensembl(IMAGE)](IMAGE)](https://useast.ensembl.org/index.html)
-[![Clinical Genome (NIH)](IMAGE)](https://www.clinicalgenome.org/)
-[![Genome Browser (UCSC)](IMAGE)](https://genome.ucsc.edu/)
+[![YeastGenome]()](https://yeastgenome.org/)
+[![WormBase]()](https://wormbase.org/)
+[![FlyBase]()](https://flybase.org/)
+[![ZFin]()](https://zfin.org/)
+[![GenCodes]()](https://www.gencodegenes.org/)
+[![RatGenomeData]()](https://rgd.mcw.edu/)
+[![Ensembl(IMAGE)]()](https://useast.ensembl.org/index.html)
+[![Clinical Genome (NIH)]()](https://www.clinicalgenome.org/)
+[![Genome Browser (UCSC)]()](https://genome.ucsc.edu/)
 
 Other: 
-[![BioModels](IMAGE)](https://www.ebi.ac.uk/biomodels/)
-[![LipidMaps](IMAGE)](https://www.lipidmaps.org/)
+[![BioModels]()](https://www.ebi.ac.uk/biomodels/)
+[![LipidMaps]()](https://www.lipidmaps.org/)
+[![UK BioBank]()](https://www.ukbiobank.ac.uk/)
+[![HHS.Gov Open-Data]()](https://cdo.hhs.gov/s/open-data)
 
 ## Scholarly Works and Socials 
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
