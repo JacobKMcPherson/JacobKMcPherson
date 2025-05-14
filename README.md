@@ -33,7 +33,6 @@
 [![rmarkdown](https://img.shields.io/cran/v/rmarkdown?label=rmarkdown)](https://rmarkdown.rstudio.com/)
 [![tidyverse](https://img.shields.io/cran/v/tidyverse?label=tidyverse)](https://www.tidyverse.org/)
 
-
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
@@ -65,6 +64,7 @@ Small Molecules Drugs:
 [![OrphData]()](https://www.orphadata.com/)
 [![IUPHAR]()](https://www.guidetopharmacology.org/)
 [![PharmGKB]()](https://www.pharmgkb.org/)
+[![ChemAxon]()](https://chemaxon.com/)
 
 Coalitions: 
 [![Global BioData]()](https://globalbiodata.org/what-we-do/global-core-biodata-resources/list-of-current-global-core-biodata-resources/)
