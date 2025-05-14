@@ -12,9 +12,12 @@ Submissions:
 [![SRA]()](https://submit.ncbi.nlm.nih.gov/subs/sra/)
 [![Genome]()](https://submit.ncbi.nlm.nih.gov/subs/genome/)
 [![PubChem]()](https://pubchem.ncbi.nlm.nih.gov/submit/)
+[![RedCap]()](https://project-redcap.org/)
 
-Data Coalition: 
+Coalitions: 
 [![Global BioData Coalition]()](https://globalbiodata.org/what-we-do/global-core-biodata-resources/list-of-current-global-core-biodata-resources/)
+[![UK BioBank]()](https://www.ukbiobank.ac.uk/)
+[![HHS.Gov Open-Data]()](https://cdo.hhs.gov/s/open-data)
 
 Bacteria: 
 [![MGnify]()](https://www.ebi.ac.uk/metagenomics)
@@ -31,6 +34,7 @@ Proteins and Enzymes:
 [![InterPro]()](https://www.ebi.ac.uk/interpro/)
 [![EMDB]()](https://www.ebi.ac.uk/emdb/) 
 [![IMEx]()](https://www.imexconsortium.org/)
+[![UCSF ChimeraX]()](https://www.cgl.ucsf.edu/chimerax/)
 
 Interactions & Reactions: 
 [![Reactome]()](https://reactome.org/)
@@ -62,14 +66,17 @@ Genomes & Models:
 [![GenCodes]()](https://www.gencodegenes.org/)
 [![RatGenomeData]()](https://rgd.mcw.edu/)
 [![Ensembl(IMAGE)]()](https://useast.ensembl.org/index.html)
+[![AllOfUs (NIH)(IMAGE)]()](https://allofus.nih.gov/)
 [![Clinical Genome (NIH)]()](https://www.clinicalgenome.org/)
 [![Genome Browser (UCSC)]()](https://genome.ucsc.edu/)
 
 Other: 
 [![BioModels]()](https://www.ebi.ac.uk/biomodels/)
 [![LipidMaps]()](https://www.lipidmaps.org/)
-[![UK BioBank]()](https://www.ukbiobank.ac.uk/)
-[![HHS.Gov Open-Data]()](https://cdo.hhs.gov/s/open-data)
+[![HealthCheckTools (MedLine Plus, NLM)]()](https://medlineplus.gov/healthchecktools.html)
+[![MyHealthFinder (OASH, HHS)]()](https://odphp.health.gov/myhealthfinder)
+[![USPSTF]()](https://www.uspreventiveservicestaskforce.org/webview/#!/)
+[![ResearchMatch (Vandy)]()](https://www.researchmatch.org/)
 
 ## Scholarly Works and Socials 
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
