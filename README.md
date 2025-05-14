@@ -64,7 +64,7 @@ Genomes & Models:
 [![GenCodes]()](https://www.gencodegenes.org/)
 [![RatGenomeData]()](https://rgd.mcw.edu/)
 [![Ensembl]()](https://useast.ensembl.org/index.html)
-[![Clinical Genome]()](https://www.clinicalgenome.org/)
+[![ClinGen]()](https://www.clinicalgenome.org/)
 [![UCSC Genome Browser]()](https://genome.ucsc.edu/)
 
 Other: 
