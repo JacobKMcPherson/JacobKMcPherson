@@ -4,7 +4,8 @@
 * [*GitBook*](https://jacobkmcpherson.netlify.app/) [![*Netlify Success*](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jacobkmcpherson/deploys)
 * [*McPherson Lab*](https://github.com/mcphersonlab) ![GitHub Pages](https://github.com/mcphersonlab/mcphersonlab.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
-## Data Submissions & Downloads
+## Data 
+Submissions:  
 [![EMBL-EBI](IMAGE)](https://www.ebi.ac.uk/submission/)
 [![NCBI](IMAGE)](https://submit.ncbi.nlm.nih.gov/subs/)
 [![BioProject](IMAGE)](https://submit.ncbi.nlm.nih.gov/about/bioproject-biosample/)
