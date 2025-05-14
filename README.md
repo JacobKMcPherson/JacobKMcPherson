@@ -51,7 +51,7 @@ Expression:
 
 Small Molecules & Drugs: 
 [![ChEBI]()](https://www.ebi.ac.uk/chebi/)
-[![ChEMBL](https://www.ebi.ac.uk/web_guidelines/images/logos/chembl-logo.svg)](https://www.ebi.ac.uk/chembl/)
+[![ChEMBL]()](https://www.ebi.ac.uk/chembl/)
 [![OrphData]()](https://www.orphadata.com/)
 [![IUPHAR]()](https://www.guidetopharmacology.org/)
 [![PharmGKB]()](https://www.pharmgkb.org/)
@@ -65,7 +65,7 @@ Genomes & Models:
 [![ZFin]()](https://zfin.org/)
 [![GenCodes]()](https://www.gencodegenes.org/)
 [![RatGenomeData]()](https://rgd.mcw.edu/)
-[![Ensembl(IMAGE)]()](https://useast.ensembl.org/index.html)
+[![Ensembl]()](https://useast.ensembl.org/index.html)
 [![AllOfUs (NIH)(IMAGE)]()](https://allofus.nih.gov/)
 [![Clinical Genome (NIH)]()](https://www.clinicalgenome.org/)
 [![Genome Browser (UCSC)]()](https://genome.ucsc.edu/)
