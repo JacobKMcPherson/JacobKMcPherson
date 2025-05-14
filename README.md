@@ -85,6 +85,7 @@ Life Science Vendors:
 [![Qiagen]()](https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/enterprise-ngs-solutions/qiagen-clc-genomics-cloud/)
 [![Eppendorf]()](https://www.eppendorf.com/us-en/)
 [![Thermo]()](https://www.thermofisher.com/us/en/home.html)
+[![Emerald Cloud Labs]()](https://www.emeraldcloudlab.com/)
 
 Infectious Diseases: 
 [![BacDive]()](https://bacdive.dsmz.de/)
