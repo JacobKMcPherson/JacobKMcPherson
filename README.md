@@ -14,6 +14,16 @@ Submissions:
 [![PubChem]()](https://pubchem.ncbi.nlm.nih.gov/submit/)
 [![RedCap]()](https://project-redcap.org/)
 
+Small Molecules & Drugs: 
+[![ChEBI]()](https://www.ebi.ac.uk/chebi/)
+[![ChEMBL]()](https://www.ebi.ac.uk/chembl/)
+[![BindingDB]()](https://www.bindingdb.org/rwd/bind/index.jsp)
+[![DrugBank]()](https://www.drugbank.com/)
+[![SwissDrug]()](https://www.molecular-modelling.ch/swiss-drug-design.html)
+[![OrphData]()](https://www.orphadata.com/)
+[![IUPHAR]()](https://www.guidetopharmacology.org/)
+[![PharmGKB]()](https://www.pharmgkb.org/)
+
 Coalitions: 
 [![Global BioData Coalition]()](https://globalbiodata.org/what-we-do/global-core-biodata-resources/list-of-current-global-core-biodata-resources/)
 
@@ -48,16 +58,6 @@ Expression:
 [![Expression (JAX)]()](https://www.informatics.jax.org/expression.shtml/)
 [![ProteomeXchange]()](https://www.proteomexchange.org/)
 [![Human Protein Atlas]()](https://www.proteinatlas.org/)
-
-Small Molecules & Drugs: 
-[![ChEBI]()](https://www.ebi.ac.uk/chebi/)
-[![ChEMBL]()](https://www.ebi.ac.uk/chembl/)
-[![BindingDB]()](https://www.bindingdb.org/rwd/bind/index.jsp)
-[![DrugBank]()](https://www.drugbank.com/)
-[![SwissDrug]()](https://www.molecular-modelling.ch/swiss-drug-design.html)
-[![OrphData]()](https://www.orphadata.com/)
-[![IUPHAR]()](https://www.guidetopharmacology.org/)
-[![PharmGKB]()](https://www.pharmgkb.org/)
 
 Genomes & Models: 
 [![YeastGenome]()](https://yeastgenome.org/)
