@@ -73,9 +73,6 @@ Other:
 [![BioModels]()](https://www.ebi.ac.uk/biomodels/)
 [![LipidMaps]()](https://www.lipidmaps.org/)
 
-Education: 
-[![AI Patient]()](https://geiselmed.dartmouth.edu/thesen/patient-actor-app/)
-
 Health: 
 [![USPSTF]()](https://www.uspreventiveservicestaskforce.org/webview/#!/)
 [![HealthCheckTools (MedLine Plus, NLM)]()](https://medlineplus.gov/healthchecktools.html)
@@ -86,6 +83,9 @@ Clinical Research:
 [![HHS.Gov Open-Data]()](https://cdo.hhs.gov/s/open-data)
 [![AllOfUs]()](https://allofus.nih.gov/)
 [![UK BioBank]()](https://www.ukbiobank.ac.uk/)
+
+Education: 
+[![AI Patient]()](https://geiselmed.dartmouth.edu/thesen/patient-actor-app/)
 
 ## Scholarly Works and Socials 
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
