@@ -49,7 +49,7 @@ Infectious Diseases:
 [![ViralHostRangeDB]()](https://viralhostrangedb.pasteur.cloud/)
 [![VirusHostDB(JP)]()](https://www.genome.jp/virushostdb/)
 [![Viruses(NCBI)]()](https://www.ncbi.nlm.nih.gov/labs/virus/)
-
+[![HIVDB]()](https://hivdb.stanford.edu/)
 
 Proteins and Enzymes: 
 [![UniProt]()](https://www.uniprot.org/)
