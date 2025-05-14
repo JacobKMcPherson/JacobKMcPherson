@@ -45,8 +45,8 @@
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 
 
-## Passion for data
-Submissions:
+## Passion for 
+Data:
 [![RedCap]()](https://project-redcap.org/)
 [![EMBL-EBI]()](https://www.ebi.ac.uk/submission/)
 [![NCBI]()](https://submit.ncbi.nlm.nih.gov/subs/)
@@ -54,6 +54,11 @@ Submissions:
 [![SRA]()](https://submit.ncbi.nlm.nih.gov/subs/sra/)
 [![Genome]()](https://submit.ncbi.nlm.nih.gov/subs/genome/)
 [![PubChem]()](https://pubchem.ncbi.nlm.nih.gov/submit/)
+
+High-Performance Computing: 
+[![NIH HPC]()](https://hpc.nih.gov/)
+[![NSF Access]()](https://allocations.access-ci.org/get-your-first-project)
+[![TACC]()](https://tacc.utexas.edu/)
 
 Small Molecules Drugs: 
 [![ChEBI]()](https://www.ebi.ac.uk/chebi/)
@@ -74,11 +79,6 @@ Coalitions:
 [![EMBL-EBI]()](https://www.ebi.ac.uk/)
 [![NCBI]()](https://ncbi.nlm.nih.gov/)
 [![SIB]()](https://www.expasy.org/)
-
-High-Performance Computing: 
-[![NIH HPC]()](https://hpc.nih.gov/)
-[![NSF Access]()](https://allocations.access-ci.org/get-your-first-project)
-[![TACC]()](https://tacc.utexas.edu/)
 
 Infectious Diseases: 
 [![BacDive]()](https://bacdive.dsmz.de/)
