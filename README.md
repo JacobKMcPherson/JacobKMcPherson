@@ -57,6 +57,7 @@ Data:
 
 Data Coalitions: 
 [![Global BioData]()](https://globalbiodata.org/what-we-do/global-core-biodata-resources/list-of-current-global-core-biodata-resources/)
+[![OpenData]()](https://registry.opendata.aws/)
 [![Elixir]()](https://elixir-europe.org/)
 [![OmicsDI]()](https://www.omicsdi.org/database)
 [![DDBJ]()](https://www.ddbj.nig.ac.jp/index-e.html)
@@ -107,6 +108,7 @@ Infectious Diseases:
 
 Proteins and Enzymes: 
 [![UniProt]()](https://www.uniprot.org/)
+[![UniProt3D]()](https://uniprot3d.org/)
 [![EMPIAR]()](https://www.ebi.ac.uk/empiar/)
 [![EMDB]()](https://www.ebi.ac.uk/emdb/)
 [![Cryo-ET]()](https://cryoetdataportal.czscience.com/)
@@ -114,7 +116,11 @@ Proteins and Enzymes:
 [![RCSB-PDB]()]([https://www.wwpdb.org/](https://www.rcsb.org/)) 
 [![InterPro]()](https://www.ebi.ac.uk/interpro/)
 [![UCSF ChimeraX]()](https://www.cgl.ucsf.edu/chimerax/)
+[![OpenStructure]()](https://openstructure.org/)
 [![CATH]()](http://www.cathdb.info/)
+[![SBGrid]()](https://sbgrid.org/)
+[![OPIG]()](https://opig.stats.ox.ac.uk/)
+[![OpenTargets]()](https://www.opentargets.org/publications)
 
 Interactions & Reactions: 
 [![Reactome]()](https://reactome.org/)
@@ -150,6 +156,7 @@ Other:
 [![MDDDB]()](https://mddbr.eu/)
 [![BioModels]()](https://www.ebi.ac.uk/biomodels/)
 [![LipidMaps]()](https://www.lipidmaps.org/)
+[![NeuroSnap]()](https://neurosnap.ai/)
 
 Health: 
 [![USPSTF]()](https://www.uspreventiveservicestaskforce.org/webview/#!/)
