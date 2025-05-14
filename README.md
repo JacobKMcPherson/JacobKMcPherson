@@ -71,7 +71,7 @@ Small Molecules Drugs:
 [![PharmGKB]()](https://www.pharmgkb.org/)
 [![ChemAxon]()](https://chemaxon.com/)
 
-Coalitions: 
+Data Coalitions: 
 [![Global BioData]()](https://globalbiodata.org/what-we-do/global-core-biodata-resources/list-of-current-global-core-biodata-resources/)
 [![Elixir]()](https://elixir-europe.org/)
 [![OmicsDI]()](https://www.omicsdi.org/database)
