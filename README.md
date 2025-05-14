@@ -144,6 +144,11 @@ Other:
 [![BioModels]()](https://www.ebi.ac.uk/biomodels/)
 [![LipidMaps]()](https://www.lipidmaps.org/)
 
+Vendors: 
+[![Qiagen]()](https://www.qiagen.com/us)
+[![Eppendorf]()](https://www.eppendorf.com/us-en/)
+[![Thermo]()](https://www.thermofisher.com/us/en/home.html)
+
 Health: 
 [![USPSTF]()](https://www.uspreventiveservicestaskforce.org/webview/#!/)
 [![HealthCheckTools]()](https://medlineplus.gov/healthchecktools.html)
@@ -156,7 +161,10 @@ Clinical Research:
 [![UK BioBank]()](https://www.ukbiobank.ac.uk/)
 [![BioBank Japan]()](https://biobankjp.org/en/)
 
-Education: 
+Academia: 
 [![AI Patient]()](https://geiselmed.dartmouth.edu/thesen/patient-actor-app/)
+[![OpenEvidence]()](https://www.openevidence.com/)
+[![OpenRead]()](https://www.openread.academy/)
+[![Copyright.com]()](https://www.copyright.com/)
 
 To Edit the [**GitBook**](https://jacobkmcpherson.netlify.app/) open this repo in an RStudio Posit Cloud directory, edit the .RMD files, compile & render the book using the native environment button, and Git push back to repo
