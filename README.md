@@ -33,8 +33,10 @@ Coalitions:
 [![NCBI]()](https://ncbi.nlm.nih.gov/)
 [![SIB]()](https://www.expasy.org/)
 
-Bacteria: 
+Infectious Diseases: 
 [![BacDive]()](https://bacdive.dsmz.de/)
+[![BEI](ATCC)](https://www.beiresources.org/)
+[![AR Isolate Bank(CDC)]()](https://wwwn.cdc.gov/arisolatebank/)
 [![BV-BRC]()](https://www.bv-brc.org/)
 [![MGnify]()](https://www.ebi.ac.uk/metagenomics)
 [![CARD]()](https://card.mcmaster.ca/)
@@ -47,6 +49,7 @@ Bacteria:
 [![ViralHostRangeDB]()](https://viralhostrangedb.pasteur.cloud/)
 [![VirusHostDB(JP)]()](https://www.genome.jp/virushostdb/)
 [![Viruses(NCBI)]()](https://www.ncbi.nlm.nih.gov/labs/virus/)
+
 
 Proteins and Enzymes: 
 [![UniProt]()](https://www.uniprot.org/)
