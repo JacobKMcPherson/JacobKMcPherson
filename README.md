@@ -55,6 +55,15 @@ Data:
 [![Genome]()](https://submit.ncbi.nlm.nih.gov/subs/genome/)
 [![PubChem]()](https://pubchem.ncbi.nlm.nih.gov/submit/)
 
+Data Coalitions: 
+[![Global BioData]()](https://globalbiodata.org/what-we-do/global-core-biodata-resources/list-of-current-global-core-biodata-resources/)
+[![Elixir]()](https://elixir-europe.org/)
+[![OmicsDI]()](https://www.omicsdi.org/database)
+[![DDBJ]()](https://www.ddbj.nig.ac.jp/index-e.html)
+[![EMBL-EBI]()](https://www.ebi.ac.uk/)
+[![NCBI]()](https://ncbi.nlm.nih.gov/)
+[![SIB]()](https://www.expasy.org/)
+
 High-Performance Computing: 
 [![NIH HPC]()](https://hpc.nih.gov/)
 [![NSF Access]()](https://allocations.access-ci.org/get-your-first-project)
@@ -70,15 +79,6 @@ Small Molecules Drugs:
 [![IUPHAR]()](https://www.guidetopharmacology.org/)
 [![PharmGKB]()](https://www.pharmgkb.org/)
 [![ChemAxon]()](https://chemaxon.com/)
-
-Data Coalitions: 
-[![Global BioData]()](https://globalbiodata.org/what-we-do/global-core-biodata-resources/list-of-current-global-core-biodata-resources/)
-[![Elixir]()](https://elixir-europe.org/)
-[![OmicsDI]()](https://www.omicsdi.org/database)
-[![DDBJ]()](https://www.ddbj.nig.ac.jp/index-e.html)
-[![EMBL-EBI]()](https://www.ebi.ac.uk/)
-[![NCBI]()](https://ncbi.nlm.nih.gov/)
-[![SIB]()](https://www.expasy.org/)
 
 Life Science Vendors: 
 [![Schrodinger]()](https://www.schrodinger.com/platform/products/virtual-cluster/)
