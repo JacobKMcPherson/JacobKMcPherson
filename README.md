@@ -31,14 +31,21 @@ Coalitions:
 [![DDBJ]()](https://www.ddbj.nig.ac.jp/index-e.html)
 [![EMBL-EBI]()](https://www.ebi.ac.uk/)
 [![NCBI]()](https://ncbi.nlm.nih.gov/)
+[![SIB]()](https://www.expasy.org/)
 
 Bacteria: 
+[![BacDive]()](https://bacdive.dsmz.de/)
+[![BV-BRC]()](https://www.bv-brc.org/)
 [![MGnify]()](https://www.ebi.ac.uk/metagenomics)
 [![Silva]()](https://www.arb-silva.de/)
-[![BacDive (DSMZ)]()](https://bacdive.dsmz.de/)
 [![EcoCyc]()](https://ecocyc.org/)
 [![SubtiWiki]()](https://www.subtiwiki.uni-goettingen.de/v5/welcome)
-[![LPSN (DSMZ)]()](https://lpsn.dsmz.de/)
+[![FungiDB]()](https://fungidb.org/)
+[![LPSN]()](https://lpsn.dsmz.de/)
+[![ViralZone]()](https://viralzone.expasy.org/)
+[![ViralHostRangeDB]()](https://viralhostrangedb.pasteur.cloud/)
+[![VirusHostDB(JP)]()](https://www.genome.jp/virushostdb/)
+[![Viruses(NCBI)]()](https://www.ncbi.nlm.nih.gov/labs/virus/)
 
 Proteins and Enzymes: 
 [![UniProt]()](https://www.uniprot.org/)
