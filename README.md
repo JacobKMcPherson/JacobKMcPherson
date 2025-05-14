@@ -71,6 +71,8 @@ Genomes & Models:
 [![Genome Browser (UCSC)]()](https://genome.ucsc.edu/)
 
 Other: 
+[![GO]()](https://geneontology.org/)
+[![KEGG]()](https://www.genome.jp/kegg/kegg1.html)
 [![MDDDB]()](https://mddbr.eu/)
 [![BioModels]()](https://www.ebi.ac.uk/biomodels/)
 [![LipidMaps]()](https://www.lipidmaps.org/)
@@ -78,6 +80,7 @@ Other:
 [![MyHealthFinder (OASH, HHS)]()](https://odphp.health.gov/myhealthfinder)
 [![USPSTF]()](https://www.uspreventiveservicestaskforce.org/webview/#!/)
 [![ResearchMatch (Vandy)]()](https://www.researchmatch.org/)
+
 
 
 ## Scholarly Works and Socials 
