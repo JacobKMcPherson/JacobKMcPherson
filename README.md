@@ -91,7 +91,7 @@ Life Science Vendors:
 Infectious Diseases: 
 [![BacDive]()](https://bacdive.dsmz.de/)
 [![BEI](ATCC)](https://www.beiresources.org/)
-[![AR Isolate Bank(CDC)]()](https://wwwn.cdc.gov/arisolatebank/)
+[![CDC AR Isolate Bank]()](https://wwwn.cdc.gov/arisolatebank/)
 [![BV-BRC]()](https://www.bv-brc.org/)
 [![MGnify]()](https://www.ebi.ac.uk/metagenomics)
 [![CARD]()](https://card.mcmaster.ca/)
