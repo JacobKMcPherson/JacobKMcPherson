@@ -22,6 +22,7 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![Zotero](https://img.shields.io/badge/zotero-CC2936.svg?style=for-the-badge&logo=zotero&logoColor=white)](https://www.zotero.org/)
 
 [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/)
 [![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)](https://posit.co/)
