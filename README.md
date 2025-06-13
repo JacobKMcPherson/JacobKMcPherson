@@ -71,7 +71,12 @@ High-Performance Computing:
 [NSF Access](https://allocations.access-ci.org/get-your-first-project)
 [TACC](https://tacc.utexas.edu/)
 
+Artificial Intelligence: 
+[Goodfellow 2016 _Deep Learning_](https://www.deeplearningbook.org/)
+
+
 Small Molecules Drugs: 
+[Isomorphic Labs](https://www.isomorphiclabs.com/)
 [ChEBI](https://www.ebi.ac.uk/chebi/)
 [ChEMBL](https://www.ebi.ac.uk/chembl/)
 [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp)
@@ -108,6 +113,7 @@ Infectious Diseases:
 [HIVDB](https://hivdb.stanford.edu/)
 
 Proteins and Enzymes: 
+[AlphaFold](https://alphafoldserver.com/)
 [UniProt](https://www.uniprot.org/)
 [UniProt3D](https://uniprot3d.org/)
 [EMPIAR](https://www.ebi.ac.uk/empiar/)
