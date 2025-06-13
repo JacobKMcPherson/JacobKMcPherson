@@ -160,7 +160,6 @@ Other:
 [MDDDB](https://mddbr.eu/)
 [BioModels](https://www.ebi.ac.uk/biomodels/)
 [LipidMaps](https://www.lipidmaps.org/)
-[NeuroSnap](https://neurosnap.ai/)
 
 Health: 
 [USPSTF](https://www.uspreventiveservicestaskforce.org/webview/#/)
