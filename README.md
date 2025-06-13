@@ -115,7 +115,7 @@ Proteins and Enzymes:
 [CryoSPARC](https://cryosparc.com/)
 [Cryo-ET](https://cryoetdataportal.czscience.com/)
 [WW-PDB](https://www.wwpdb.org/) 
-[RCSB-PDB]([https://www.wwpdb.org/](https://www.rcsb.org/)) 
+[RCSB-PDB](https://www.rcsb.org/)
 [InterPro](https://www.ebi.ac.uk/interpro/)
 [UCSF ChimeraX](https://www.cgl.ucsf.edu/chimerax/)
 [OpenStructure](https://openstructure.org/)
