@@ -66,6 +66,7 @@ Data Coalitions:
 [SIB](https://www.expasy.org/)
 
 High-Performance Computing: 
+[NeuroSnap AI](https://neurosnap.ai/)
 [NIH HPC](https://hpc.nih.gov/)
 [NSF Access](https://allocations.access-ci.org/get-your-first-project)
 [TACC](https://tacc.utexas.edu/)
@@ -82,10 +83,10 @@ Small Molecules Drugs:
 [ChemAxon](https://chemaxon.com/)
 
 Life Science Vendors: 
-[Schrodinger](https://www.schrodinger.com/platform/products/virtual-cluster/)
-[Qiagen](https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/enterprise-ngs-solutions/qiagen-clc-genomics-cloud/)
-[Eppendorf](https://www.eppendorf.com/us-en/)
 [Thermo](https://www.thermofisher.com/us/en/home.html)
+[Eppendorf](https://www.eppendorf.com/us-en/)
+[Qiagen](https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/enterprise-ngs-solutions/qiagen-clc-genomics-cloud/)
+[Schrodinger](https://www.schrodinger.com/platform/products/virtual-cluster/)
 [Emerald Cloud Labs](https://www.emeraldcloudlab.com/)
 
 Infectious Diseases: 
