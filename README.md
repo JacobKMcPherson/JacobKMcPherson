@@ -47,7 +47,6 @@
 
 ## Favorite Resources for...
 Data:
-
 [RedCap](https://project-redcap.org/)
 [EMBL-EBI](https://www.ebi.ac.uk/submission/)
 [NCBI](https://submit.ncbi.nlm.nih.gov/subs/)
@@ -57,7 +56,6 @@ Data:
 [PubChem](https://pubchem.ncbi.nlm.nih.gov/submit/)
 
 Data Coalitions: 
-
 [Global BioData](https://globalbiodata.org/what-we-do/global-core-biodata-resources/list-of-current-global-core-biodata-resources/)
 [OpenData](https://registry.opendata.aws/)
 [Elixir](https://elixir-europe.org/)
@@ -68,19 +66,16 @@ Data Coalitions:
 [SIB](https://www.expasy.org/)
 
 High-Performance Computing: 
-
 [NeuroSnap AI](https://neurosnap.ai/)
 [NIH HPC](https://hpc.nih.gov/)
 [NSF Access](https://allocations.access-ci.org/get-your-first-project)
 [TACC](https://tacc.utexas.edu/)
 
 Artificial Intelligence: 
-
 [Goodfellow 2016 _Deep Learning_](https://www.deeplearningbook.org/)
 
 
 Small Molecules Drugs: 
-
 [Isomorphic Labs](https://www.isomorphiclabs.com/)
 [ChEBI](https://www.ebi.ac.uk/chebi/)
 [ChEMBL](https://www.ebi.ac.uk/chembl/)
@@ -93,7 +88,6 @@ Small Molecules Drugs:
 [ChemAxon](https://chemaxon.com/)
 
 Life Science Vendors: 
-
 [Thermo](https://www.thermofisher.com/us/en/home.html)
 [Eppendorf](https://www.eppendorf.com/us-en/)
 [Qiagen](https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/enterprise-ngs-solutions/qiagen-clc-genomics-cloud/)
@@ -101,7 +95,6 @@ Life Science Vendors:
 [Emerald Cloud Labs](https://www.emeraldcloudlab.com/)
 
 Infectious Diseases: 
-
 [BacDive](https://bacdive.dsmz.de/)
 [BEI](https://www.beiresources.org/)
 [CDC AR Isolate Bank](https://wwwn.cdc.gov/arisolatebank/)
@@ -120,7 +113,6 @@ Infectious Diseases:
 [HIVDB](https://hivdb.stanford.edu/)
 
 Proteins and Enzymes: 
-
 [AlphaFold](https://alphafoldserver.com/)
 [UniProt](https://www.uniprot.org/)
 [UniProt3D](https://uniprot3d.org/)
@@ -141,7 +133,6 @@ Proteins and Enzymes:
 [TCBG](https://www.ks.uiuc.edu/)
 
 Interactions & Reactions: 
-
 [Reactome](https://reactome.org/)
 [RHEA](https://www.rhea-db.org/)
 [STRING](https://string-db.org/)
@@ -149,7 +140,6 @@ Interactions & Reactions:
 [IMEx](https://www.imexconsortium.org/)
 
 Expression: 
-
 [BioImage](https://www.ebi.ac.uk/bioimage-archive/submit/)
 [Expression (JAX)](https://www.informatics.jax.org/expression.shtml/)
 [GTEx](https://www.gtexportal.org/home/)
@@ -161,7 +151,6 @@ Expression:
 [archs4](https://archs4.org/)
 
 Genomes & Models: 
-
 [YeastGenome](https://yeastgenome.org/)
 [WormBase](https://wormbase.org/)
 [FlyBase](https://flybase.org/)
@@ -172,7 +161,6 @@ Genomes & Models:
 [ClinGen](https://www.clinicalgenome.org/)
 
 Other: 
-
 [GO](https://geneontology.org/)
 [KEGG](https://www.genome.jp/kegg/kegg1.html)
 [MDDDB](https://mddbr.eu/)
@@ -180,13 +168,11 @@ Other:
 [LipidMaps](https://www.lipidmaps.org/)
 
 Health: 
-
 [USPSTF](https://www.uspreventiveservicestaskforce.org/webview/#/)
 [HealthCheckTools](https://medlineplus.gov/healthchecktools.html)
 [MyHealthFinder](https://odphp.health.gov/myhealthfinder)
 
 Clinical Research: 
-
 [ResearchMatch](https://www.researchmatch.org/)
 [HHS.Gov Open-Data](https://cdo.hhs.gov/s/open-data)
 [AllOfUs](https://allofus.nih.gov/)
