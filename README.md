@@ -45,7 +45,7 @@
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 
-
+<!-- Silencing the below links, see the closing - - >
 ## Favorite Resources for...
 
 | CONTENT   | RESOURCES     | 
@@ -67,3 +67,4 @@ Artificial Intelligence | [Goodfellow 2016 _Deep Learning_](https://www.deeplear
 | Academia |  [AI Patient](https://geiselmed.dartmouth.edu/thesen/patient-actor-app/) [OpenEvidence](https://www.openevidence.com/) [OpenRead](https://www.openread.academy/) [Copyright.com](https://www.copyright.com/) |
 
 To Edit the [**GitBook**](https://jacobkmcpherson.netlify.app/) open this repo in an RStudio Posit Cloud directory, edit the .RMD files, compile & render the book using the native environment button, and Git push back to repo
+-->
