@@ -1,17 +1,17 @@
-# Welcome! Please check out my...
+## Welcome! Please check out my...
 
 * [*AuthorLink*](https://author.link/JacobKMcPherson) ![Website Status](https://img.shields.io/website-up-down-green-red/http/author.link/JacobKMcPherson) 
 * [*GitBook*](https://jacobkmcpherson.netlify.app/) [![*Netlify Success*](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jacobkmcpherson/deploys)
 * [*McPherson Lab*](https://github.com/mcphersonlab) ![GitHub Pages](https://github.com/mcphersonlab/mcphersonlab.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
-## Scholarly Works and Socials 
+### Scholarly Works and Socials 
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MsZPCoIAAAAJ)
 [![Scopus](https://img.shields.io/badge/Scopus-22a6b3?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57204192355)
 [![ORCID](https://img.shields.io/badge/ORCID-21B324?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5486-4945)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jacob-Mcpherson)
 
-## Favorite **Tools** and *Languages* <!-- can make smaller by removing  -->
+### Favorite **Tools** and *Languages* <!-- can make smaller by removing  -->
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/)
 [![VSCode](https://img.shields.io/badge/vs%20code-007ACC?logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
