@@ -20,6 +20,10 @@
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/)
 [![Zotero](https://img.shields.io/badge/zotero-CC2936.svg?logo=zotero&logoColor=white)](https://www.zotero.org/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)](https://julialang.org/)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?logo=R&logoColor=white)](https://www.r-project.org/)
 [![Posit](https://img.shields.io/badge/RStudio-75AADB?logo=R&rstudio&logoColor=white)](https://posit.co/)
@@ -122,10 +126,7 @@
 [![](https://img.shields.io/badge/pytest-B23A48?logo=pytest&logoColor=white)](https://docs.pytest.org/)
 [![](https://img.shields.io/badge/pydantic-FF6F00?logo=Python&logoColor=white)](https://docs.pydantic.dev/)
 
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)](https://julialang.org/)
-[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
+
 
 
 <!-- Silencing the below links, see the closing - - >
