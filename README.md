@@ -1,3 +1,4 @@
+<!--- 
 ## Welcome! Please check out my...
 
 * [*AuthorLink*](https://author.link/JacobKMcPherson) ![Website Status](https://img.shields.io/website-up-down-green-red/http/author.link/JacobKMcPherson) 
@@ -126,7 +127,7 @@
 [![](https://img.shields.io/badge/pytest-B23A48?logo=pytest&logoColor=white)](https://docs.pytest.org/)
 [![](https://img.shields.io/badge/pydantic-FF6F00?logo=Python&logoColor=white)](https://docs.pydantic.dev/)
 
-
+--->
 
 
 <!-- Silencing the below links, see the closing - - >
