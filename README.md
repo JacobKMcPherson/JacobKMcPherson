@@ -1,4 +1,4 @@
-<!--- 
+
 ## Welcome! Please check out my...
 
 * [*AuthorLink*](https://author.link/JacobKMcPherson) ![Website Status](https://img.shields.io/website-up-down-green-red/http/author.link/JacobKMcPherson) 
