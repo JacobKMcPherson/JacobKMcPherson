@@ -1,14 +1,14 @@
 
-## Welcome! Please check out my...
+Welcome! Please check out my...
 
-### Scholarly Works and Socials 
+Scholarly Works and Socials <br>
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MsZPCoIAAAAJ)
 [![Scopus](https://img.shields.io/badge/Scopus-22a6b3?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57204192355)
 [![ORCID](https://img.shields.io/badge/ORCID-21B324?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5486-4945)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jacob-Mcpherson)
 
-### Favorite **Tools** and *Languages* <!-- can make smaller by removing  -->
+Favorite **Tools** and *Languages* <br>
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/)
 [![VSCode](https://img.shields.io/badge/vs%20code-007ACC?logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
@@ -21,7 +21,6 @@
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)](https://julialang.org/)
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
-
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?logo=R&logoColor=white)](https://www.r-project.org/)
 [![Posit](https://img.shields.io/badge/RStudio-75AADB?logo=R&rstudio&logoColor=white)](https://posit.co/)
 [![Shiny](https://img.shields.io/badge/Shiny-%23276DC3.svg?logo=r&logoColor=white)](https://shiny.posit.co/)
@@ -75,7 +74,6 @@
 [![](https://img.shields.io/badge/MASS-%23007ACC.svg?logo=R&logoColor=white)](https://CRAN.R-project.org/package=MASS)
 [![](https://img.shields.io/badge/knitr-%23FFB300.svg?logo=R&knitr&logoColor=white)](https://CRAN.R-project.org/package=knitr)
 [![](https://img.shields.io/badge/Matrix-%231C75BC.svg?logo=R&Matrix&logoColor=white)](https://CRAN.R-project.org/package=Matrix)
-
 [![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
@@ -123,12 +121,7 @@
 [![](https://img.shields.io/badge/pytest-B23A48?logo=pytest&logoColor=white)](https://docs.pytest.org/)
 [![](https://img.shields.io/badge/pydantic-FF6F00?logo=Python&logoColor=white)](https://docs.pydantic.dev/)
 
---->
-
-
-<!-- Silencing the below links, see the closing - - >
-## Favorite Resources for...
-
+<!---
 | CONTENT   | RESOURCES     | 
 |----------|----------|
 | Data    | [RedCap](https://project-redcap.org/) [EMBL-EBI](https://www.ebi.ac.uk/submission/) [NCBI](https://submit.ncbi.nlm.nih.gov/subs/) [BioProject](https://submit.ncbi.nlm.nih.gov/about/bioproject-biosample/) [SRA](https://submit.ncbi.nlm.nih.gov/subs/sra/) [Genome](https://submit.ncbi.nlm.nih.gov/subs/genome/) [PubChem](https://pubchem.ncbi.nlm.nih.gov/submit/) | 
@@ -146,6 +139,3 @@ Artificial Intelligence | [Goodfellow 2016 _Deep Learning_](https://www.deeplear
 | Health |  [USPSTF](https://www.uspreventiveservicestaskforce.org/webview/#/) [HealthCheckTools](https://medlineplus.gov/healthchecktools.html) [MyHealthFinder](https://odphp.health.gov/myhealthfinder) |
 | Clinical Research | [ResearchMatch](https://www.researchmatch.org/) [HHS.Gov Open-Data](https://cdo.hhs.gov/s/open-data) [AllOfUs](https://allofus.nih.gov/) [UK BioBank](https://www.ukbiobank.ac.uk/) [BioBank Japan](https://biobankjp.org/en/) |
 | Academia |  [AI Patient](https://geiselmed.dartmouth.edu/thesen/patient-actor-app/) [OpenEvidence](https://www.openevidence.com/) [OpenRead](https://www.openread.academy/) [Copyright.com](https://www.copyright.com/) |
-
-To Edit the [**GitBook**](https://jacobkmcpherson.netlify.app/) open this repo in an RStudio Posit Cloud directory, edit the .RMD files, compile & render the book using the native environment button, and Git push back to repo
--->
