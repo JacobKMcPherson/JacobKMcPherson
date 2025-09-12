@@ -9,7 +9,7 @@ Scholarly Works and Socials <br>
 [![Scopus](https://img.shields.io/badge/Scopus-22a6b3?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57204192355)
 [![ORCID](https://img.shields.io/badge/ORCID-21B324?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5486-4945)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jacob-Mcpherson)
-
+<!---
 Favorite **Tools** and *Languages* <br>
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/)
