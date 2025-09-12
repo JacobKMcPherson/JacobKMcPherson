@@ -142,7 +142,7 @@ Favorite **Tools** and *Languages* <br>
 [![cleveref](https://img.shields.io/badge/cleveref-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/cleveref)
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=Novatorem&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1241595878&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1241595878&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 <!---
 | CONTENT   | RESOURCES     | 
