@@ -1,4 +1,7 @@
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true)
+
+
 Welcome! Please check out my...
 
 Scholarly Works and Socials <br>
@@ -140,9 +143,6 @@ Favorite **Tools** and *Languages* <br>
 [![microtype](https://img.shields.io/badge/microtype-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/microtype)
 [![siunitx](https://img.shields.io/badge/siunitx-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/siunitx)
 [![cleveref](https://img.shields.io/badge/cleveref-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/cleveref)
-
-
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1241595878&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1241595878&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 <!---
 | CONTENT   | RESOURCES     | 
