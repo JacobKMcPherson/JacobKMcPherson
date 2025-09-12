@@ -14,7 +14,6 @@ Favorite **Tools** and *Languages* <br>
 [![VSCode](https://img.shields.io/badge/vs%20code-007ACC?logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://www.ubuntu.com)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/)
 [![Zotero](https://img.shields.io/badge/zotero-CC2936.svg?logo=zotero&logoColor=white)](https://www.zotero.org/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)](https://www.docker.com/)
@@ -120,6 +119,30 @@ Favorite **Tools** and *Languages* <br>
 [![](https://img.shields.io/badge/pathlib-5A5A5A?logo=Python&logoColor=white)](https://docs.python.org/3/library/pathlib.html)
 [![](https://img.shields.io/badge/pytest-B23A48?logo=pytest&logoColor=white)](https://docs.pytest.org/)
 [![](https://img.shields.io/badge/pydantic-FF6F00?logo=Python&logoColor=white)](https://docs.pydantic.dev/)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![amsmath](https://img.shields.io/badge/amsmath-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/amsmath)
+[![amssymb](https://img.shields.io/badge/amssymb-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/amsfonts)
+[![geometry](https://img.shields.io/badge/geometry-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/geometry)
+[![graphicx](https://img.shields.io/badge/graphicx-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/graphicx)
+[![hyperref](https://img.shields.io/badge/hyperref-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/hyperref)
+[![xcolor](https://img.shields.io/badge/xcolor-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/xcolor)
+[![tikz/pgf](https://img.shields.io/badge/tikz%2Fpgf-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/pgf)
+[![babel](https://img.shields.io/badge/babel-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/babel)
+[![fontenc](https://img.shields.io/badge/fontenc-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/fontenc)
+[![inputenc](https://img.shields.io/badge/inputenc-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/inputenc)
+[![csquotes](https://img.shields.io/badge/csquotes-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/csquotes)
+[![biblatex](https://img.shields.io/badge/biblatex-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/biblatex)
+[![natbib](https://img.shields.io/badge/natbib-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/natbib)
+[![booktabs](https://img.shields.io/badge/booktabs-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/booktabs)
+[![array](https://img.shields.io/badge/array-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/array)
+[![fancyhdr](https://img.shields.io/badge/fancyhdr-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/fancyhdr)
+[![titlesec](https://img.shields.io/badge/titlesec-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/titlesec)
+[![microtype](https://img.shields.io/badge/microtype-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/microtype)
+[![siunitx](https://img.shields.io/badge/siunitx-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/siunitx)
+[![cleveref](https://img.shields.io/badge/cleveref-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/cleveref)
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true)
 
 <!---
 | CONTENT   | RESOURCES     | 
