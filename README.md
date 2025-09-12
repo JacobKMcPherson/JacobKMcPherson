@@ -1,10 +1,6 @@
 
 ## Welcome! Please check out my...
 
-* [*AuthorLink*](https://author.link/JacobKMcPherson) ![Website Status](https://img.shields.io/website-up-down-green-red/http/author.link/JacobKMcPherson) 
-* [*GitBook*](https://jacobkmcpherson.netlify.app/) [![*Netlify Success*](https://api.netlify.com/api/v1/badges/8ef22d4a-c312-4c44-a02d-06db75dc8c6f/deploy-status)](https://app.netlify.com/sites/jacobkmcpherson/deploys)
-* [*McPherson Lab*](https://github.com/mcphersonlab) ![GitHub Pages](https://github.com/mcphersonlab/mcphersonlab.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-
 ### Scholarly Works and Socials 
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MsZPCoIAAAAJ)
