@@ -1,6 +1,5 @@
-
-![](https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)
-![](./profile-3d-contrib/profile-green-animate.svg)
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" width="384"/>
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="384" />
 
 🔬Scholarly Works<br>
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
