@@ -1,7 +1,3 @@
-<table>
-  <tr>
-    <td>
-
 🔬 **Scholarly Works**<br>
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)  
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MsZPCoIAAAAJ)  
@@ -9,15 +5,9 @@
 [![ORCID](https://img.shields.io/badge/ORCID-21B324?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5486-4945)  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jacob-Mcpherson)  
 
-
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" height="250" />  
 
 ![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/overview.svg)
-
-  </tr>
-</table>
-
-
 
 <!-- 31bnfk42omywvvbucbpdbb562kq4 -->
 <!--- img src="./profile-3d-contrib/profile-green-animate.svg" width="480" /> -->
