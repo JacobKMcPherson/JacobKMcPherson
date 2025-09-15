@@ -8,9 +8,6 @@
 ![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/languages.svg)  
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" height="250" />
 
-
-
-<!-- 3 1 b n f k 4 2 o m y w v v b u c b p d b b 5 6 2 k q 4 -->
 <!--- img src="./profile-3d-contrib/profile-green-animate.svg" width="480" /> -->
 <!--- ![Snake animation](https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/output/github-snake.svg) -->
 
