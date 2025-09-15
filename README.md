@@ -4,7 +4,8 @@
 [![Scopus](https://img.shields.io/badge/Scopus-22a6b3?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57204192355)
 [![ORCID](https://img.shields.io/badge/ORCID-21B324?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5486-4945)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jacob-Mcpherson)
-<a href="#macropower-title"> <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" /></a>
+
+![Stats Overview](https://raw.githubusercontent.com/jacobkmcpherson/github-stats-transparent/output/generated/overview.svg)
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" height="480" /> 
 
 
