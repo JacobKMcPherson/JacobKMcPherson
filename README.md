@@ -2,6 +2,9 @@
 ![](https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)
 <!--- novatorem --> 
 
+![3D profile contributions](https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/main/profile-3d-contrib/profile-green-animate.svg)
+
+
 🔬Scholarly Works<br>
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MsZPCoIAAAAJ)
