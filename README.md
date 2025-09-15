@@ -7,9 +7,7 @@
 
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" height="480" /> 
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg)
 
 
 <!-- 31bnfk42omywvvbucbpdbb562kq4 -->
