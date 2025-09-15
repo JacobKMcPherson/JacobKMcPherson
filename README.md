@@ -1,6 +1,6 @@
 
-![](https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)
-![](./profile-3d-contrib/profile-night-green.svg)
+![](https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 🔬Scholarly Works<br>
