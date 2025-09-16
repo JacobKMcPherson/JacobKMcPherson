@@ -6,9 +6,8 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jacob-Mcpherson)  
 ![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/languages.svg)  
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" height="250" />
-
-<!--- img src="./profile-3d-contrib/profile-green-animate.svg" width="480" /> -->
+<img src="./profile-3d-contrib/profile-green-animate.svg" height="240" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" height="240" />  
 <!--- ![Snake animation](https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/output/github-snake.svg) -->
 
 
