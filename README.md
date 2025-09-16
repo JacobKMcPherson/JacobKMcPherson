@@ -11,7 +11,7 @@
 <!--- ![Snake animation](https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/output/github-snake.svg) -->
 
 
-### 🔨 Languages and Tools:
+🔨 **Languages and Tools**
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/)
 [![VSCode](https://img.shields.io/badge/vs%20code-007ACC?logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
