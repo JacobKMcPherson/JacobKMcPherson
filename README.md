@@ -11,7 +11,7 @@
 <!--- img src="./profile-3d-contrib/profile-green-animate.svg" width="480" /> -->
 <!--- ![Snake animation](https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/output/github-snake.svg) -->
 
-<!---
+
 ### 🔨 Languages and Tools:
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/)
@@ -19,6 +19,7 @@
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://www.ubuntu.com)
 [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Zotero](https://img.shields.io/badge/zotero-CC2936.svg?logo=zotero&logoColor=white)](https://www.zotero.org/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
@@ -30,6 +31,21 @@
 [![Quarto](https://img.shields.io/badge/Quarto-%23004D7A.svg?logo=r&quarto&logoColor=white)](https://quarto.org)
 [![Tidyverse](https://img.shields.io/badge/tidyverse-%231A162D.svg?logo=R&logoColor=white)](https://www.tidyverse.org/)
 [![Rmarkdown](https://img.shields.io/badge/R%20Markdown-%23276DC3.svg?logo=r&logoColor=white)](https://rmarkdown.rstudio.com/)
+<!--
+[![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org) 
+[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white)](https://plotly.com)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)](https://numpy.org)
+[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)](https://scipy.org/) 
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](https://pytorch.org)
+[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)](https://keras.io)
+[![](https://img.shields.io/badge/matplotlib-224499?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![](https://img.shields.io/badge/seaborn-377EB8?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![](https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+
 [![](https://img.shields.io/badge/ggplot2-%232A81CB.svg?logo=r&logoColor=white)](https://CRAN.R-project.org/package=ggplot2)
 [![](https://img.shields.io/badge/colorspace-%233B8EA5?logo=R&logoColor=white)](https://CRAN.R-project.org/package=colorspace)
 [![](https://img.shields.io/badge/viridis-%236C9E3F?logo=R&logoColor=white)](https://CRAN.R-project.org/package=viridis)
@@ -77,19 +93,7 @@
 [![](https://img.shields.io/badge/MASS-%23007ACC.svg?logo=R&logoColor=white)](https://CRAN.R-project.org/package=MASS)
 [![](https://img.shields.io/badge/knitr-%23FFB300.svg?logo=R&knitr&logoColor=white)](https://CRAN.R-project.org/package=knitr)
 [![](https://img.shields.io/badge/Matrix-%231C75BC.svg?logo=R&Matrix&logoColor=white)](https://CRAN.R-project.org/package=Matrix)
-[![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)](https://www.anaconda.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org) 
-[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white)](https://plotly.com)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)](https://numpy.org)
-[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)](https://scipy.org/) 
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](https://pytorch.org)
-[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)](https://keras.io)
-[![](https://img.shields.io/badge/matplotlib-224499?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![](https://img.shields.io/badge/seaborn-377EB8?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![](https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+
 [![](https://img.shields.io/badge/xarray-DC0000?logo=Python&logoColor=white)](http://xarray.pydata.org/)
 [![](https://img.shields.io/badge/dask-F16824?logo=Python&logoColor=white)](https://dask.org/)
 [![](https://img.shields.io/badge/Pillow-B19CD9?logo=Python&logoColor=white)](https://python-pillow.org/)
@@ -123,7 +127,7 @@
 [![](https://img.shields.io/badge/pathlib-5A5A5A?logo=Python&logoColor=white)](https://docs.python.org/3/library/pathlib.html)
 [![](https://img.shields.io/badge/pytest-B23A48?logo=pytest&logoColor=white)](https://docs.pytest.org/)
 [![](https://img.shields.io/badge/pydantic-FF6F00?logo=Python&logoColor=white)](https://docs.pydantic.dev/)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)](https://www.latex-project.org/)
+
 [![amsmath](https://img.shields.io/badge/amsmath-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/amsmath)
 [![amssymb](https://img.shields.io/badge/amssymb-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/amsfonts)
 [![geometry](https://img.shields.io/badge/geometry-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/geometry)
@@ -144,6 +148,7 @@
 [![microtype](https://img.shields.io/badge/microtype-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/microtype)
 [![siunitx](https://img.shields.io/badge/siunitx-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/siunitx)
 [![cleveref](https://img.shields.io/badge/cleveref-2C5981?logo=LaTeX&logoColor=white)](https://ctan.org/pkg/cleveref)
+--->
 
 <!---
 | CONTENT   | RESOURCES     | 
