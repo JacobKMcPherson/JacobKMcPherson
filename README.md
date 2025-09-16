@@ -31,7 +31,6 @@
 [![Quarto](https://img.shields.io/badge/Quarto-%23004D7A.svg?logo=r&quarto&logoColor=white)](https://quarto.org)
 [![Tidyverse](https://img.shields.io/badge/tidyverse-%231A162D.svg?logo=R&logoColor=white)](https://www.tidyverse.org/)
 [![Rmarkdown](https://img.shields.io/badge/R%20Markdown-%23276DC3.svg?logo=r&logoColor=white)](https://rmarkdown.rstudio.com/)
-<!--
 [![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
@@ -45,7 +44,7 @@
 [![](https://img.shields.io/badge/matplotlib-224499?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![](https://img.shields.io/badge/seaborn-377EB8?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![](https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-
+<!--
 [![](https://img.shields.io/badge/ggplot2-%232A81CB.svg?logo=r&logoColor=white)](https://CRAN.R-project.org/package=ggplot2)
 [![](https://img.shields.io/badge/colorspace-%233B8EA5?logo=R&logoColor=white)](https://CRAN.R-project.org/package=colorspace)
 [![](https://img.shields.io/badge/viridis-%236C9E3F?logo=R&logoColor=white)](https://CRAN.R-project.org/package=viridis)
