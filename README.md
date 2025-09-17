@@ -5,12 +5,13 @@
 [![ORCID](https://img.shields.io/badge/ORCID-21B324?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5486-4945)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jacob-Mcpherson)  
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="480" />
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=#ffffff&interchange=true&bar_color=53b14f&bar_color_cover=false" width="240" />  
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bnfk42omywvvbucbpdbb562kq4&cover_image=true&theme=default&show_offline=false&background_color=#ffffff&interchange=true&bar_color=53b14f&bar_color_cover=false" width="240" />  
+
 ![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/languages.svg)  
 <!--- ![Snake animation](https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/output/github-snake.svg) -->
-
-
+<!---1241595878 -->
+<!--- 31bnfk42omywvvbucbpdbb562kq4 -->
 🔨 **Languages and Tools**  
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/)
