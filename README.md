@@ -5,7 +5,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-21B324?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5486-4945)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jacob-Mcpherson)  
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="480" />
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=spotifyuser&cover_image=true&theme=default&show_offline=false&background_color=#ffffff&interchange=true&bar_color=53b14f&bar_color_cover=false" width="240" />  
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=#ffffff&interchange=true&bar_color=53b14f&bar_color_cover=false" width="240" />  
 
 ![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/languages.svg)  
