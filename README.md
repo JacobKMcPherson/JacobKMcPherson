@@ -1,15 +1,14 @@
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=#ffffff&interchange=true&bar_color=53b14f&bar_color_cover=false" width="240" />  <img src="./profile-3d-contrib/profile-green-animate.svg" width="480" />
+![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/languages.svg)  
+<!--- ![Snake animation](https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/output/github-snake.svg) -->
+
 🔬 **Scholarly Works**  
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MsZPCoIAAAAJ)
 [![Scopus](https://img.shields.io/badge/Scopus-22a6b3?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57204192355)
 [![ORCID](https://img.shields.io/badge/ORCID-21B324?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5486-4945)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jacob-Mcpherson)  
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="480" />
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=#ffffff&interchange=true&bar_color=53b14f&bar_color_cover=false" width="240" />  
-
-![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/languages.svg)  
-<!--- ![Snake animation](https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/output/github-snake.svg) -->
 
 🔨 **Languages and Tools**  
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
