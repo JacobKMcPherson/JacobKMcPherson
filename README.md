@@ -18,7 +18,7 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://www.ubuntu.com)
 [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)](https://www.latex-project.org/)
-[![Zotero](https://img.shields.io/badge/zotero-CC2936.svg?logo=zotero&logoColor=white)](https://www.zotero.org/)<br>
+[![Zotero](https://img.shields.io/badge/zotero-CC2936.svg?logo=zotero&logoColor=white)](https://www.zotero.org/)
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?logo=R&logoColor=white)](https://www.r-project.org/)
 [![Posit](https://img.shields.io/badge/RStudio-75AADB?logo=R&rstudio&logoColor=white)](https://posit.co/)
 [![Shiny](https://img.shields.io/badge/Shiny-%23276DC3.svg?logo=r&logoColor=white)](https://shiny.posit.co/)
@@ -32,13 +32,13 @@
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org) 
 [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white)](https://plotly.com)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)](https://numpy.org)
-[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)](https://scipy.org/)<br>
+[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)](https://scipy.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](https://pytorch.org)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)](https://keras.io)
 [![](https://img.shields.io/badge/matplotlib-224499?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![](https://img.shields.io/badge/seaborn-377EB8?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![](https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)<br>
+[![](https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)](https://julialang.org/)
