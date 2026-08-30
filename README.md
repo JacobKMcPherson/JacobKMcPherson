@@ -1,4 +1,4 @@
-<img src="https://tthn.pythonanywhere.com/" width="240" alt="Spotify now playing" />  <img src="./profile-3d-contrib/profile-green-animate.svg" width="480" />
+<img src="https://tthn.pythonanywhere.com/api" width="240" alt="Spotify now playing" />  <img src="./profile-3d-contrib/profile-green-animate.svg" width="480" alt="3D contribution graph" />
 ![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/languages.svg)  
 <!--- ![Snake animation](https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/output/github-snake.svg) -->
