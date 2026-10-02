@@ -1,6 +1,7 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true)
-![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/languages.svg)  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true)![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/languages.svg)  
 ![Snake animation](https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/output/github-snake.svg)
+
+
 
 🔬 **Scholarly Works**  
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
