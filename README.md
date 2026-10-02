@@ -1,4 +1,4 @@
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=false&theme=default" alt="Spotify Profile" /></a>
+
 ![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/languages.svg)  
 <!--- ![Snake animation](https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/output/github-snake.svg) -->
 
