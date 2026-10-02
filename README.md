@@ -1,5 +1,4 @@
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=false" width="240" alt="Spotify now playing" /></a>  <img src="./profile-3d-contrib/profile-green-animate.svg" width="480" alt="3D contribution graph" />
-![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/overview.svg)
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=false&theme=default" alt="Spotify Profile" /></a>
 ![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/languages.svg)  
 <!--- ![Snake animation](https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/output/github-snake.svg) -->
 
