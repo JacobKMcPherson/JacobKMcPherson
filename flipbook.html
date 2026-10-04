@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jacob McPherson - Interactive Flipbook</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Fira Code', 'Courier New', monospace;
+            background: linear-gradient(135deg, #121212 0%, #1e1e1e 100%);
+            color: #e0e0e0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .flipbook-container {
+            width: 100%;
+            max-width: 800px;
+            perspective: 1200px;
+        }
+
+        .flipbook-wrapper {
+            position: relative;
+            width: 100%;
+            aspect-ratio: 16/9;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 
+                0 20px 60px rgba(0, 0, 0, 0.5),
+                inset 0 1px 0 rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .page {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            padding: 60px 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            opacity: 0;
+            transform: rotateY(90deg);
+            transition: all 0.8s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .page.active {
+            opacity: 1;
+            transform: rotateY(0deg);
+            z-index: 1;
+            pointer-events: auto;
+        }
+
+        .page.prev {
+            transform: rotateY(-90deg);
+        }
+
+        /* Page Styling */
+        .page-header {
+            font-size: 2.5em;
+            font-weight: bold;
+            margin-bottom: 20px;
+            background: linear-gradient(135deg, #36BCF7 0%, #00D4FF 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .page-content {
+            font-size: 1.1em;
+            line-height: 1.8;
+            color: #b0b0b0;
+            max-width: 600px;
+        }
+
+        .page-content strong {
+            color: #36BCF7;
+            font-weight: 600;
+        }
+
+        .badge-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 15px;
+            margin-top: 30px;
+            width: 100%;
+            max-width: 600px;
+        }
+
+        .badge {
+            background: linear-gradient(135deg, rgba(54, 188, 247, 0.2) 0%, rgba(0, 212, 255, 0.1) 100%);
+            border: 1px solid rgba(54, 188, 247, 0.5);
+            border-radius: 8px;
+            padding: 12px;
+            font-size: 0.9em;
+            transition: all 0.3s ease;
+            cursor: default;
+        }
+
+        .badge:hover {
+            background: linear-gradient(135deg, rgba(54, 188, 247, 0.4) 0%, rgba(0, 212, 255, 0.2) 100%);
+            border-color: rgba(54, 188, 247, 1);
+            transform: translateY(-2px);
+        }
+
+        /* Navigation */
+        .navigation {
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 15px;
+            z-index: 10;
+        }
+
+        .nav-btn {
+            background: linear-gradient(135deg, #36BCF7 0%, #00D4FF 100%);
+            border: none;
+            color: #121212;
+            padding: 12px 24px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            font-size: 0.95em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .nav-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(54, 188, 247, 0.4);
+        }
+
+        .nav-btn:active {
+            transform: translateY(0);
+        }
+
+        .page-counter {
+            position: absolute;
+            top: 20px;
+            right: 30px;
+            font-size: 1em;
+            color: #36BCF7;
+            font-weight: bold;
+            letter-spacing: 1px;
+        }
+
+        .page-indicator {
+            position: absolute;
+            bottom: 20px;
+            right: 30px;
+            display: flex;
+            gap: 8px;
+        }
+
+        .dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: rgba(54, 188, 247, 0.3);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(54, 188, 247, 0.5);
+        }
+
+        .dot.active {
+            background: #36BCF7;
+            transform: scale(1.2);
+            box-shadow: 0 0 15px rgba(54, 188, 247, 0.8);
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .page {
+                padding: 40px 25px;
+            }
+
+            .page-header {
+                font-size: 2em;
+            }
+
+            .page-content {
+                font-size: 1em;
+            }
+
+            .badge-grid {
+                grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+                gap: 10px;
+            }
+
+            .nav-btn {
+                padding: 10px 20px;
+                font-size: 0.9em;
+            }
+        }
+
+        .emoji {
+            font-size: 3em;
+            margin-bottom: 20px;
+            animation: float 3s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-10px); }
+        }
+
+        .highlight {
+            color: #00D4FF;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="flipbook-container">
+        <div class="flipbook-wrapper">
+            <!-- Page 1: Title -->
+            <div class="page active">
+                <div class="emoji">👨‍🔬</div>
+                <div class="page-header">Jacob McPherson</div>
+                <div class="page-content">
+                    <strong>Data Scientist | Bioinformatician | Researcher</strong><br><br>
+                    Exploring the intersection of <span class="highlight">computational biology</span> 
+                    and <span class="highlight">machine learning</span>
+                </div>
+            </div>
+
+            <!-- Page 2: Languages -->
+            <div class="page">
+                <div class="emoji">🔨</div>
+                <div class="page-header">Languages & Tools</div>
+                <div class="badge-grid">
+                    <div class="badge">Python 🐍</div>
+                    <div class="badge">R 📊</div>
+                    <div class="badge">Julia 🟣</div>
+                    <div class="badge">Bash 💻</div>
+                    <div class="badge">Docker 🐳</div>
+                    <div class="badge">Git 📝</div>
+                    <div class="badge">AWS ☁️</div>
+                    <div class="badge">LaTeX 📐</div>
+                    <div class="badge">SQL 🗄️</div>
+                    <div class="badge">Jupyter 📓</div>
+                </div>
+            </div>
+
+            <!-- Page 3: Python Ecosystem -->
+            <div class="page">
+                <div class="emoji">🐍</div>
+                <div class="page-header">Python Ecosystem</div>
+                <div class="badge-grid">
+                    <div class="badge">Pandas</div>
+                    <div class="badge">NumPy</div>
+                    <div class="badge">SciPy</div>
+                    <div class="badge">Scikit-learn</div>
+                    <div class="badge">TensorFlow</div>
+                    <div class="badge">PyTorch</div>
+                    <div class="badge">Matplotlib</div>
+                    <div class="badge">Plotly</div>
+                    <div class="badge">FastAPI</div>
+                    <div class="badge">SQLAlchemy</div>
+                </div>
+            </div>
+
+            <!-- Page 4: R Ecosystem -->
+            <div class="page">
+                <div class="emoji">📊</div>
+                <div class="page-header">R Ecosystem</div>
+                <div class="badge-grid">
+                    <div class="badge">Tidyverse</div>
+                    <div class="badge">ggplot2</div>
+                    <div class="badge">Shiny</div>
+                    <div class="badge">Quarto</div>
+                    <div class="badge">dplyr</div>
+                    <div class="badge">Rmarkdown</div>
+                    <div class="badge">data.table</div>
+                    <div class="badge">caret</div>
+                    <div class="badge">ggvis</div>
+                    <div class="badge">Posit RStudio</div>
+                </div>
+            </div>
+
+            <!-- Page 5: Scholarly Works -->
+            <div class="page">
+                <div class="emoji">🔬</div>
+                <div class="page-header">Scholarly Works</div>
+                <div class="page-content">
+                    <p>Published research across multiple platforms:</p><br>
+                    <strong>📖 PubMed</strong> • <strong>🎓 Google Scholar</strong> • 
+                    <strong>📚 Scopus</strong> • <strong>🔗 ORCID</strong> • 
+                    <strong>🤝 ResearchGate</strong>
+                </div>
+            </div>
+
+            <!-- Page 6: Stats & Activity -->
+            <div class="page">
+                <div class="emoji">📈</div>
+                <div class="page-header">GitHub Statistics</div>
+                <div class="page-content">
+                    <p>Active contributor in <span class="highlight">data science</span> and <span class="highlight">bioinformatics</span></p><br>
+                    <p>Specialized in:</p>
+                    <p>• Statistical Analysis<br>• Machine Learning<br>• Data Visualization<br>• Research Computing</p>
+                </div>
+            </div>
+
+            <!-- Page 7: Research Interests -->
+            <div class="page">
+                <div class="emoji">🧬</div>
+                <div class="page-header">Research Focus</div>
+                <div class="page-content">
+                    <p><strong>Bioinformatics</strong> | <strong>Genomics</strong> | <strong>Proteomics</strong></p><br>
+                    <p><strong>Machine Learning</strong> | <strong>Statistical Analysis</strong> | <strong>Data Visualization</strong></p><br>
+                    <p><strong>High-Performance Computing</strong> | <strong>Cloud Infrastructure</strong></p>
+                </div>
+            </div>
+
+            <!-- Page 8: Connect -->
+            <div class="page">
+                <div class="emoji">🌐</div>
+                <div class="page-header">Let's Connect</div>
+                <div class="page-content">
+                    <p>Interested in collaboration or discussion?</p><br>
+                    <p><strong>GitHub</strong> | <strong>LinkedIn</strong> | <strong>Twitter</strong> | <strong>Email</strong></p><br>
+                    <p style="font-size: 0.95em; color: #909090; margin-top: 20px;">
+                        Open to opportunities in research, data science, and bioinformatics
+                    </p>
+                </div>
+            </div>
+
+            <!-- Navigation -->
+            <div class="page-counter">
+                <span id="current-page">1</span> / <span id="total-pages">8</span>
+            </div>
+
+            <div class="navigation">
+                <button class="nav-btn" id="prev-btn">← Previous</button>
+                <button class="nav-btn" id="next-btn">Next →</button>
+            </div>
+
+            <div class="page-indicator" id="page-dots">
+                <!-- Generated by JS -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const pages = document.querySelectorAll('.page');
+        const totalPages = pages.length;
+        let currentPage = 0;
+
+        const prevBtn = document.getElementById('prev-btn');
+        const nextBtn = document.getElementById('next-btn');
+        const currentPageSpan = document.getElementById('current-page');
+        const dotsContainer = document.getElementById('page-dots');
+
+        // Create page indicator dots
+        for (let i = 0; i < totalPages; i++) {
+            const dot = document.createElement('div');
+            dot.className = `dot ${i === 0 ? 'active' : ''}`;
+            dot.addEventListener('click', () => goToPage(i));
+            dotsContainer.appendChild(dot);
+        }
+
+        const dots = document.querySelectorAll('.dot');
+
+        function updatePages() {
+            pages.forEach((page, index) => {
+                page.classList.remove('active', 'prev');
+                if (index === currentPage) {
+                    page.classList.add('active');
+                } else if (index < currentPage) {
+                    page.classList.add('prev');
+                }
+            });
+
+            dots.forEach((dot, index) => {
+                dot.classList.toggle('active', index === currentPage);
+            });
+
+            currentPageSpan.textContent = currentPage + 1;
+        }
+
+        function nextPage() {
+            if (currentPage < totalPages - 1) {
+                currentPage++;
+                updatePages();
+            }
+        }
+
+        function prevPage() {
+            if (currentPage > 0) {
+                currentPage--;
+                updatePages();
+            }
+        }
+
+        function goToPage(index) {
+            currentPage = index;
+            updatePages();
+        }
+
+        prevBtn.addEventListener('click', prevPage);
+        nextBtn.addEventListener('click', nextPage);
+
+        // Keyboard navigation
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight') nextPage();
+            if (e.key === 'ArrowLeft') prevPage();
+        });
+
+        // Auto-advance (optional - uncomment to enable)
+        // setInterval(nextPage, 5000);
+    </script>
+</body>
+</html>
