@@ -1,5 +1,5 @@
 
-<table>
+<table border="0">
 <tr>
 <td valign="top" width="70%">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=620&lines=Pharmacy+%7C+Pharmacology+%7C+Infectious+Diseases;R+%7C+Python+%7C+LaTeX;Bioinformatics+%7C+Cheminformatics+%7C+AI;Always+building+and+learning" alt="Typing SVG"><br>
