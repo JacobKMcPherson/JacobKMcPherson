@@ -1,9 +1,9 @@
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true">
+  <img align="right" width="30%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false" alt="Spotify">
+</a>
 
-<table border="0">
-<tr>
-<td valign="top" width="70%">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=620&lines=Pharmacy+%7C+Pharmacology+%7C+Infectious+Diseases;R+%7C+Python+%7C+LaTeX;Bioinformatics+%7C+Cheminformatics+%7C+AI;Always+building+and+learning" alt="Typing SVG"><br>
-  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=620&lines=Pharmacy+%7C+Pharmacology+%7C+Infectious+Diseases" alt="Typing SVG">
+
 🔬 Scholarly works
 
 <a href="https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/"><img src="https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white" alt="PubMed"></a>
@@ -47,20 +47,8 @@
 <a href="https://julialang.org/"><img src="https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white" alt="Julia"></a>
 <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase"></a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JacobKMcPherson&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub stats"><br>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JacobKMcPherson&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub stats">
 <img height="165" src="https://streak-stats.demolab.com?user=JacobKMcPherson&theme=transparent" alt="GitHub streak stats">
-
-</td>
-<td valign="top" width="30%" align="right">
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify profile">
-</a>
-
-</td>
-</tr>
-</table>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/output/github-snake.svg" alt="Snake animation" />
