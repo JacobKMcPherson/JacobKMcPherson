@@ -1,5 +1,8 @@
 ![](https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)
-![](https://raw.githubusercontent.com/jacobkmcpherson/github-stats/master/generated/languages.svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=R+%7C+Python+%7C+Julia;Data+Science+%7C+Bioinformatics+%7C+AI;Always+building+and+learning)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JacobKMcPherson&show_icons=true&theme=transparent&rank_icon=github" />
+<img height="170" src="https://streak-stats.demolab.com?user=JacobKMcPherson&theme=transparent" />
+
 ![Snake animation](https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/output/github-snake.svg)
 
 
