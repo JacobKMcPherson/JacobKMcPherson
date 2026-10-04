@@ -1,25 +1,10 @@
+
 🔬 **Scholarly Works**  
 [![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
 [![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MsZPCoIAAAAJ)
 [![Scopus](https://img.shields.io/badge/Scopus-FD7E14?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57204192355)
 [![ORCID](https://img.shields.io/badge/ORCID-21B324?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5486-4945)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jacob-McPherson)  
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Pharmacy+%7C+Pharmacology+%7C+Infectious+Diseases;R+%7C+Python+%7C+LaTeX;Bioinformatics+%7C+Cheminformatics+%7C+AI;Always+building+and+learning"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JacobKMcPherson&show_icons=true&theme=transparent&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com?user=JacobKMcPherson&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/output/github-snake.svg" alt="Snake animation" />
-</p>
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jacob-McPherson) 
 
 🔨 **Languages and Tools**  
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
@@ -63,6 +48,23 @@
     />
   </a>
 </p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Pharmacy+%7C+Pharmacology+%7C+Infectious+Diseases;R+%7C+Python+%7C+LaTeX;Bioinformatics+%7C+Cheminformatics+%7C+AI;Always+building+and+learning"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JacobKMcPherson&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height="170" src="https://streak-stats.demolab.com?user=JacobKMcPherson&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/output/github-snake.svg" alt="Snake animation" />
+</p>
+
 
 <!--
 [![](https://img.shields.io/badge/colorspace-%233B8EA5?logo=R&logoColor=white)](https://CRAN.R-project.org/package=colorspace)
