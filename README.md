@@ -1,65 +1,64 @@
 
-🔬 **Scholarly Works**  
-[![PubMed](https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white)](https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/)
-[![Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=MsZPCoIAAAAJ)
-[![Scopus](https://img.shields.io/badge/Scopus-FD7E14?logo=Elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=57204192355)
-[![ORCID](https://img.shields.io/badge/ORCID-21B324?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5486-4945)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jacob-McPherson) 
+<table>
+<tr>
+<td valign="top" width="70%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=620&lines=Pharmacy+%7C+Pharmacology+%7C+Infectious+Diseases;R+%7C+Python+%7C+LaTeX;Bioinformatics+%7C+Cheminformatics+%7C+AI;Always+building+and+learning" alt="Typing SVG"><br>
+  
+<h3>🔬 Scholarly Works</h3>
+<a href="https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/"><img src="https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white" alt="PubMed"></a>
+<a href="https://scholar.google.com/citations?user=MsZPCoIAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57204192355"><img src="https://img.shields.io/badge/Scopus-FD7E14?logo=Elsevier&logoColor=white" alt="Scopus"></a>
+<a href="https://orcid.org/0000-0001-5486-4945"><img src="https://img.shields.io/badge/ORCID-21B324?logo=orcid&logoColor=white" alt="ORCID"></a>
+<a href="https://www.researchgate.net/profile/Jacob-McPherson"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white" alt="ResearchGate"></a>
 
-🔨 **Languages and Tools**  
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/)
-[![VSCode](https://img.shields.io/badge/vs%20code-007ACC?logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://www.ubuntu.com)
-[![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)](https://www.latex-project.org/)
-[![Zotero](https://img.shields.io/badge/zotero-CC2936.svg?logo=zotero&logoColor=white)](https://www.zotero.org/)
-[![R](https://img.shields.io/badge/r-%23276DC3.svg?logo=R&logoColor=white)](https://www.r-project.org/)
-[![Posit](https://img.shields.io/badge/RStudio-75AADB?logo=R&rstudio&logoColor=white)](https://posit.co/)
-[![Shiny](https://img.shields.io/badge/Shiny-%23276DC3.svg?logo=r&logoColor=white)](https://shiny.posit.co/)
-[![Quarto](https://img.shields.io/badge/Quarto-%23004D7A.svg?logo=r&quarto&logoColor=white)](https://quarto.org)
-[![Tidyverse](https://img.shields.io/badge/tidyverse-%231A162D.svg?logo=R&logoColor=white)](https://www.tidyverse.org/)
-[![Rmarkdown](https://img.shields.io/badge/R%20Markdown-%23276DC3.svg?logo=r&logoColor=white)](https://rmarkdown.rstudio.com/)
-[![](https://img.shields.io/badge/ggplot2-%232A81CB.svg?logo=r&logoColor=white)](https://CRAN.R-project.org/package=ggplot2)
-[![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)](https://www.anaconda.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)](https://pandas.pydata.org) 
-[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white)](https://plotly.com)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)](https://numpy.org)
-[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)](https://scipy.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](https://pytorch.org)
-[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)](https://keras.io)
-[![](https://img.shields.io/badge/matplotlib-224499?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![](https://img.shields.io/badge/seaborn-377EB8?logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![](https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)](https://julialang.org/)
-[![SupaBase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
+<h3>🔨 Languages and Tools</h3>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" alt="Git"></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/vs%20code-007ACC?logo=visual%20studio%20code&logoColor=white" alt="VS Code"></a>
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" alt="AWS"></a>
+<a href="https://www.ubuntu.com"><img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu"></a>
+<a href="https://www.overleaf.com/"><img src="https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white" alt="Overleaf"></a>
+<a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white" alt="LaTeX"></a>
+<a href="https://www.zotero.org/"><img src="https://img.shields.io/badge/zotero-CC2936.svg?logo=zotero&logoColor=white" alt="Zotero"></a>
+<a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/r-%23276DC3.svg?logo=R&logoColor=white" alt="R"></a>
+<a href="https://posit.co/"><img src="https://img.shields.io/badge/RStudio-75AADB?logo=R&rstudio&logoColor=white" alt="Posit"></a>
+<a href="https://shiny.posit.co/"><img src="https://img.shields.io/badge/Shiny-%23276DC3.svg?logo=r&logoColor=white" alt="Shiny"></a>
+<a href="https://quarto.org"><img src="https://img.shields.io/badge/Quarto-%23004D7A.svg?logo=r&quarto&logoColor=white" alt="Quarto"></a>
+<a href="https://www.tidyverse.org/"><img src="https://img.shields.io/badge/tidyverse-%231A162D.svg?logo=R&logoColor=white" alt="Tidyverse"></a>
+<a href="https://rmarkdown.rstudio.com/"><img src="https://img.shields.io/badge/R%20Markdown-%23276DC3.svg?logo=r&logoColor=white" alt="R Markdown"></a>
+<a href="https://CRAN.R-project.org/package=ggplot2"><img src="https://img.shields.io/badge/ggplot2-%232A81CB.svg?logo=r&logoColor=white" alt="ggplot2"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python"></a>
+<a href="https://www.anaconda.com/"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white" alt="Anaconda"></a>
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Orange?logo=jupyter&logoColor=white" alt="Jupyter"></a>
+<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white" alt="Pandas"></a>
+<a href="https://plotly.com"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white" alt="Plotly"></a>
+<a href="https://numpy.org"><img src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white" alt="NumPy"></a>
+<a href="https://scipy.org/"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=white" alt="SciPy"></a>
+<a href="https://www.tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" alt="TensorFlow"></a>
+<a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white" alt="PyTorch"></a>
+<a href="https://keras.io"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" alt="Keras"></a>
+<a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/matplotlib-224499?logo=matplotlib&logoColor=white" alt="matplotlib"></a>
+<a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/seaborn-377EB8?logo=seaborn&logoColor=white" alt="seaborn"></a>
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn"></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white" alt="Docker"></a>
+<a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white" alt="Markdown"></a>
+<a href="https://julialang.org/"><img src="https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white" alt="Julia"></a>
+<a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase"></a>
 
-<p align="right">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true">
-    <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false"
-      alt="spotify-github-profile"
-    />
-  </a>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JacobKMcPherson&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub stats"><br>
+<img height="165" src="https://streak-stats.demolab.com?user=JacobKMcPherson&theme=transparent" alt="GitHub streak stats">
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Pharmacy+%7C+Pharmacology+%7C+Infectious+Diseases;R+%7C+Python+%7C+LaTeX;Bioinformatics+%7C+Cheminformatics+%7C+AI;Always+building+and+learning"
-    alt="Typing SVG"
-  />
-</p>
+</td>
+<td valign="top" width="30%" align="right">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JacobKMcPherson&show_icons=true&theme=transparent&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com?user=JacobKMcPherson&theme=transparent" />
-</p>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify profile">
+</a>
+
+</td>
+</tr>
+</table>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JACOBKMCPHERSON/JACOBKMCPHERSON/output/github-snake.svg" alt="Snake animation" />
