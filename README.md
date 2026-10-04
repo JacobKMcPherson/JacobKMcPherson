@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=620&lines=Pharmacy+%7C+Pharmacology+%7C+Infectious+Diseases" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=620&lines=Pharmacy+%7C+Pharmacology+%7C+Infectious+Diseases;Bioinformatics+%7C+Cheminformatics+%7C+AI;Always+building+and+learning" alt="Typing SVG">
 
 🔬 Scholarly works
 
