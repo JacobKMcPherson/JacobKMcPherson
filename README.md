@@ -1,7 +1,3 @@
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true">
-  <img align="right" width="20%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false" alt="Spotify">
-</a>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=620&lines=Pharmacy+%7C+Pharmacology+%7C+Infectious+Diseases" alt="Typing SVG">
 
 🔬 Scholarly works
@@ -46,6 +42,10 @@
 <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white" alt="Markdown"></a>
 <a href="https://julialang.org/"><img src="https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white" alt="Julia"></a>
 <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase"></a>
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true">
+  <img align="right" width="30%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false" alt="Spotify">
+</a>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=JacobKMcPherson&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub stats">
 <img height="165" src="https://streak-stats.demolab.com?user=JacobKMcPherson&theme=transparent" alt="GitHub streak stats">
