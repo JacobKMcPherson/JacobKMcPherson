@@ -1,5 +1,5 @@
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true">
-  <img align="right" width="30%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false" alt="Spotify">
+  <img align="right" width="20%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false" alt="Spotify">
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=620&lines=Pharmacy+%7C+Pharmacology+%7C+Infectious+Diseases" alt="Typing SVG">
