@@ -1,13 +1,4 @@
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true">
-    <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false"
-      alt="spotify-github-profile"
-    />
-  </a>
-</p>
-
-<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=R+%7C+Python+%7C+LaTeX;Bioinformatics,+Cheminformatics,+and+AI;Always+building+and+learning"
     alt="Typing SVG"
@@ -63,6 +54,15 @@
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)](https://julialang.org/)
 [![SupaBase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
+
+<p align="right">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&redirect=true">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=1241595878&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false"
+      alt="spotify-github-profile"
+    />
+  </a>
+</p>
 
 <!--
 [![](https://img.shields.io/badge/colorspace-%233B8EA5?logo=R&logoColor=white)](https://CRAN.R-project.org/package=colorspace)
