@@ -4,14 +4,16 @@
 <td valign="top" width="70%">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=620&lines=Pharmacy+%7C+Pharmacology+%7C+Infectious+Diseases;R+%7C+Python+%7C+LaTeX;Bioinformatics+%7C+Cheminformatics+%7C+AI;Always+building+and+learning" alt="Typing SVG"><br>
   
-<h3>🔬 Scholarly Works</h3>
+🔬 Scholarly works
+
 <a href="https://www.ncbi.nlm.nih.gov/myncbi/1XeOuqmaFjg5z/bibliography/public/"><img src="https://img.shields.io/badge/PubMed-2C5981?logo=PubMed&logoColor=white" alt="PubMed"></a>
 <a href="https://scholar.google.com/citations?user=MsZPCoIAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57204192355"><img src="https://img.shields.io/badge/Scopus-FD7E14?logo=Elsevier&logoColor=white" alt="Scopus"></a>
 <a href="https://orcid.org/0000-0001-5486-4945"><img src="https://img.shields.io/badge/ORCID-21B324?logo=orcid&logoColor=white" alt="ORCID"></a>
 <a href="https://www.researchgate.net/profile/Jacob-McPherson"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white" alt="ResearchGate"></a>
 
-<h3>🔨 Languages and Tools</h3>
+🔨 Languages and tools
+
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" alt="Git"></a>
 <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/vs%20code-007ACC?logo=visual%20studio%20code&logoColor=white" alt="VS Code"></a>
